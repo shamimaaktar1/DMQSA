@@ -63,7 +63,7 @@ The decision flow is represented using the Inclusive, Exclusive, and Parallel ga
 <br>
 
 <p align="center">
-   <img src="https://github.com/shamimaaktar1/ADDMQSA/assets/75358854/8c52844e-dc48-46e9-af0b-c31c0d36e40f" alt="Model and Notation (BPMN)"  width="600" height="300">
+   <img src="https://github.com/shamimaaktar1/ADDMQSA/assets/75358854/8c52844e-dc48-46e9-af0b-c31c0d36e40f" alt="Model and Notation (BPMN)"  width="600" height="280">
 </p>
 
 
