@@ -50,7 +50,7 @@ The research method is described below and represented in the picture below:
 #### Identifying Quantum Patterns and Strategies
 
 <p>
-The required patterns, strategies, quality attributes, and impact of patterns on quality attributes for creating decision models are collected data from the two sources (e.g., GitHub1 and Stack Exchange sites 2) inspired by the guidelines for selecting empirical methods for software engineering research. The following are used to extract the relevant issues and posts from both GitHub and Stack Exchange sites.
+The required patterns, strategies, quality attributes, and impact of patterns on quality attributes for creating decision models are collected data from the two sources (e.g., GitHub and Stack Exchange sites) inspired by the guidelines for selecting empirical methods for software engineering research. The following are used to extract the relevant issues and posts from both GitHub and Stack Exchange sites.
 </p>
 
 
