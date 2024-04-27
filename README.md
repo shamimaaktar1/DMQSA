@@ -35,7 +35,7 @@ This research paper is divided into three main phases.
 ### Phase 1: Research Design
 
 <p>
-These decision models were explicitly crafted for four critical areas of quantum software design: structural abstraction, communication, integration and optimization, and data processing. These areas were chosen because they are fundamental to addressing critical design, implementation, integration, and data management challenges.
+The decision models were explicitly crafted for four critical areas of quantum software design: structural abstraction, communication, integration and optimization, and data processing. These areas were chosen because they are fundamental to addressing critical design, implementation, integration, and data management challenges.
 </p>
 The research method is described below and represented in the picture below:
 <br>
