@@ -83,48 +83,45 @@ In our study, we conducted a survey of quantum software practitioners and aimed 
 We proposed a set of decision models for selecting patterns and strategies in six critical areas of quantum software system design: <strong>Communication</strong>, <strong>Decomposition</strong>, <strong>Data Processing</strong>, <strong>Fault Tolerance</strong>, <strong>Integration and Optimization</strong>, and <strong>Algorithm Implementation</strong>. These models are developed based on insights gathered from analyzing real-world development discussions in GitHub issues and Stack Exchange posts. They aim to guide practitioners in addressing design challenges by providing structured pathways to select suitable architectural patterns and strategies while balancing relevant quality trade-offs.
 </p>
 
+### Phase 2: Decision Models
+
+We present six decision models that guide practitioners in selecting architectural patterns and strategies across key design areas in quantum software systems. These models were derived from empirical analysis of practitioner discussions on GitHub and Stack Exchange and are structured using BPMN decision flows. Each model maps system conditions to patterns based on their influence on *quality attributes*.
+
+---
+
 #### Decision Model for Communication
 
-<p>
-This model helps practitioners choose communication patterns by evaluating requirements for latency, reliability, and interoperability between quantum and classical components. It includes patterns such as Quantum Proxy, Broker-Client Separation, and Quantum API Gateway, which enhance modularity, scalability, and interoperability while introducing trade-offs in availability and performance. Gateways determine suitable paths depending on whether secure communication, abstraction of services, or hardware selection is prioritized.
-</p>
+This model helps practitioners choose communication patterns by evaluating requirements for *latency*, *reliability*, and *interoperability* between quantum and classical components. It includes patterns such as **Quantum Proxy**, **Broker-Client Separation**, and **Quantum API Gateway**, which enhance *modularity*, *scalability*, and *interoperability* while introducing trade-offs in *availability* and *performance*. Gateways determine suitable paths depending on whether secure communication, abstraction of services, or hardware selection is prioritized.
+
+---
 
 #### Decision Model for Decomposition
 
-<p>
-This model assists in decomposing complex quantum systems into smaller, modular components. It guides the selection of architectural strategies that improve <em>modularity, maintainability, scalability</em>, and <em>testability</em>. Such decomposition is critical in enabling manageable development and testing workflows in hybrid quantum-classical environments.
-</p>
+The decomposition model structures quantum systems into manageable modules. It begins with **Quantum Microservices**, promoting *maintainability*, *scalability*, and *performance*, but with reduced *flexibility*. For layered-based decomposition, patterns like **Quantum Layered**, **Quantum Multi-Tier**, and **Recursive Containment** are selected based on system needs. These improve *extensibility*, *modularity*, and *portability*, but may impact *cost*, *reliability*, or *complexity*. Additionally, functionality-based decomposition uses **Single Responsibility** or **Decomposed by Business Capabilities** patterns to enhance *maintainability* and *performance*.
+
+---
 
 #### Decision Model for Data Processing
 
-<p>
-The data processing model supports architectural decisions involving the collection, transformation, and handling of quantum data. It highlights trade-offs across <em>performance, flexibility, extensibility</em>, and <em>compatibility</em>, particularly in scenarios where quantum and classical computations must interoperate efficiently.
-</p>
+This model guides the selection of data handling patterns through inclusive and exclusive gateways. When managing multi-stage data processing, the **Pipe and Filter** pattern enhances *flexibility* but may reduce *performance*. On-demand management leads to the **Consumer** pattern, while dynamic testing activates **Data-Driven Testing**. Advanced encoding needs activate patterns like **Quantum Data Encoding**, **Amplitude Encoding**, **Angle Encoding**, and **Basis Encoding**, each balancing trade-offs among *scalability*, *performance*, and *complexity*. For integration and conversion of quantum-classical data, **Quantum Mediator Wrapper** and **Measurement** patterns are used.
+
+---
 
 #### Decision Model for Fault Tolerance
 
-<p>
-This model helps in selecting fault-tolerant architectural patterns designed to mitigate the inherent instability of quantum operations. It focuses on <em>reliability, robustness, performance</em>, and <em>complexity</em>, addressing the challenges of noise, decoherence, and error propagation in quantum circuits.
-</p>
+Focused on improving *reliability* and fault resilience, this model begins with inclusive gateways to assess tolerance and detection requirements. **Sparing**, **Comparison**, and **Voting** patterns are selected for redundancy and fault detection, offering strong *fault recovery* and *reliability* but with *performance* and *complexity* trade-offs. For correction, **Error Correction**, **Readout Error Mitigation**, and **Gate Error Mitigation** address specific fault sources. Additionally, **Decorator Design Pattern** and **Quantum Patterns of Behavior (qPoB)** offer high-level fault mitigation mechanisms, enhancing *adaptability* but increasing *system complexity*.
+
+---
 
 #### Decision Model for Integration and Optimization
 
-<p>
-The integration and optimization model facilitates decisions regarding the seamless combination of quantum and classical components and the optimization of quantum workflows. It supports trade-offs in <em>efficiency, extensibility, testability</em>, and <em>energy-performance</em>, enabling improved system performance in hybrid execution environments.
-</p>
+This model addresses the seamless integration of quantum components and optimization of operations. If integration is needed across quantum frameworks, the **Integration Pattern** is chosen. Optimization goals lead to selection among patterns like **Prototype Design**, **Quantum Broadcast**, **Decorator Design**, and **Quantum Transformer**, each affecting *extensibility*, *maintainability*, or *modularity*. Service-based integration activates **Quantum Service-Oriented Architecture**, **Quantum Service Registry**, **Bring Your Own Container (BYOC)**, and **Quantum Load Balancing**, depending on deployment needs, promoting *flexibility*, *discoverability*, and *resource optimization*.
+
+---
 
 #### Decision Model for Algorithm Implementation
 
-<p>
-This model provides guidance for implementing quantum algorithms by considering algorithmic complexity, hardware limitations, and resource availability. It balances <em>correctness, performance, portability</em>, and <em>scalability</em>, helping practitioners make informed design choices aligned with both functional requirements and quality goals.
-</p>
-
-
-### Phase 3: Evaluation of Decision Models
-
-<p>
-  To evaluate the decision models, we conducted a survey of the responses 24 practitioners.
-</p>
+This model supports the design of quantum algorithms through modular and reusable patterns. The **Hybrid Module** pattern integrates classical and quantum logic, while the **Quantum-Classic Split** and **Classical-Quantum Interface** patterns allow separation of concerns and simplified integration. For reusable module design, **Quantum Module Pattern** and **Quantum Module Template** offer *flexibility* and *adaptability*. Optimizing execution involves selecting **Qubit Gate**, **Brickwork**, or **Template-Matching** patterns. Finally, for hardware portability and cross-platform compatibility, the **Quantum Circuit Translator** ensures *interoperability* across diverse quantum backends.
 
 
 
