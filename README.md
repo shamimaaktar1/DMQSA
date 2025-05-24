@@ -78,7 +78,6 @@ To model the decision-making process for selecting architectural patterns and st
 This modeling structure ensures a clear, traceable, and standardized representation of decision flows, helping practitioners evaluate trade-offs and make informed architectural decisions in quantum software systems.
 
 <br>
-<br>
 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/4ca46ea6-5987-4098-8bdd-ebbb30c33a34" alt="Model and Notation (BPMN)"  width="600" height="210">
