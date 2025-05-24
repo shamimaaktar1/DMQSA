@@ -134,14 +134,10 @@ This model addresses the seamless integration of quantum components and optimiza
 
 This model supports the design of quantum algorithms through modular and reusable patterns. The **Hybrid Module** pattern integrates classical and quantum logic, while the **Quantum-Classic Split** and **Classical-Quantum Interface** patterns allow separation of concerns and simplified integration. For reusable module design, **Quantum Module Pattern** and **Quantum Module Template** offer *flexibility* and *adaptability*. Optimizing execution involves selecting **Qubit Gate**, **Brickwork**, or **Template-Matching** patterns. Finally, for hardware portability and cross-platform compatibility, the **Quantum Circuit Translator** ensures *interoperability* across diverse quantum backends.
 
-#### Evaluating Decision Models
-
-In our study, we conducted a survey of quantum software practitioners and aimed to refine and evaluate our decision models. We conducted a descriptive survey following the guidelines proposed by Kitchenham and Pfleeger. Our survey questionnaire was conducted using Google Forms.
-
-
-
-
-
+#### Evaluation of Decision Models
+<p>
+To evaluate the decision models, we conducted semi-structured interviews with 16 practitioners from Asia, Africa, and Europe, most of whom were mid-level professionals with 2–10 years of experience in quantum software development. Participants represented diverse roles including researchers, developers, and physicists, and were engaged in domains such as quantum cryptography, AI/ML, optimization, and simulation. Most respondents reported being familiar with the patterns and strategies across all six models. They rated the models as generally easy to understand and found them sufficient to support architectural decision-making. Notably, all participants agreed that the models for decomposition, data processing, fault tolerance, integration and optimization, and algorithm implementation were sufficient, with only one participant expressing partial sufficiency for the communication model. Suggestions for improvement included refining pattern relationships, clarifying trade-offs, and adding directionality and quantitative evaluations. These insights were incorporated to improve the clarity and utility of the final models.
+</p>
 
 
 
