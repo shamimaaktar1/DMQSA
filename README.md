@@ -1,17 +1,15 @@
 <p align="center">
-    <img src="(https://github.com/user-attachments/assets/a98339cc-f51d-4d03-99a0-49074b899d37" alt="Logo" width="180" height="250">
+    <img src="https://github.com/user-attachments/assets/a98339cc-f51d-4d03-99a0-49074b899d37" alt="Logo" width="180" height="250" />
 </p>
 
-![Decision Models for Selecting Patterns and Strategies in Quantum Software Systems-GitHub DM Project logo (3)](https://github.com/user-attachments/assets/a98339cc-f51d-4d03-99a0-49074b899d37)
-
-<h2 align="center">Decision Models for Selecting Patterns and Strategies in Quantum Software Systems</h3>
+<h2 align="center">Decision Models for Selecting Patterns and Strategies in Quantum Software Systems</h2>
 
 <p align="left">
-  This is the replication package for the paper: "Decision Models for Selecting Patterns and Strategies in Quantum Software Systems", including the dataset, figures,  scripts, and so on (see the description below).
-  <br>
+  This is the replication package for the paper: "Decision Models for Selecting Patterns and Strategies in Quantum Software Systems", including the dataset, figures, scripts, and so on (see the description below).
+</p>
 
-  
 ## File Organization
+
 
 1. `Dataset.xlsx` contains the information about i) selected GitHub projects, ii) selected Stack Exchange sites, iii) selected GitHub issues, iv) Selected Stack Exchange posts, v) raw data of GitHub issues, vi) raw data of Stack Exchange posts, vii) pattern and strategy impact.
 2. `Decision Models` folder contains the high-quality figures of the four decision models, namely, the decision model for i) Communication, ii) Decomposition, iii) Data
