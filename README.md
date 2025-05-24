@@ -34,8 +34,8 @@ This research paper is divided into three main phases.
   - [Decision Model for Algorithm Implementation](#decision-model-for-algorithm-implementation)
  
 - [Phase 3: Evaluation of Decision Models](#evaluation-of-decision-models)
-  - [Decision Model for Communication](#decision-model-for-communication)
-  - [Decision Model for Decomposition](#decision-model-for-decomposition)
+  - [Participant Demographics and Professional Background](#participant-demographics-and-professional-background)
+  - [Practitioner Feedback on Decision Models](#practitioner-feedback-on-decision-models)
 
 
 
@@ -57,7 +57,7 @@ The research method is described below and represented in the picture below:
 #### Identifying Quantum Patterns and Strategies
 
 <p>
-To develop decision models for quantum software systems, we conducted an extensive empirical investigation using data mined from 10 open-source quantum software projects on GitHub and relevant discussions from Stack Exchange platforms (Stack Overflow, Quantum Computing, and Computer Science). After systematically applying inclusion and exclusion criteria, we selected 121 relevant GitHub issues and pull requests and 13 Stack Exchange posts. Through thematic analysis of these sources, we identified a total of 162 architectural patterns and strategies 145 from GitHub and 17 from Stack Exchange. In parallel, a systematic literature review was conducted across major databases (IEEE, ACM, SpringerLink, etc.), yielding 195 patterns and strategies from 90 peer-reviewed studies after rigorous screening and quality assessment. By integrating findings from both empirical and literature-based analyses, we unified and consolidated a final set of 63 unique architecture patterns and strategies, categorized into six key design areas in quantum software systems: 1) 18 for Communication, 2) 7 for Decomposition, 3) 12 for Data Processing, 4) 8 for Fault Tolerance, 5) 9 for Integration and Optimization, and 6) 9 for Algorithm Implementation.
+To develop decision models for quantum software systems, we conducted an extensive empirical investigation using data mined from 10 open-source quantum software projects on GitHub and relevant discussions from Stack Exchange platforms (Stack Overflow, Quantum Computing, and Computer Science). After systematically applying inclusion and exclusion criteria, we selected 121 relevant GitHub issues and pull requests and 13 Stack Exchange posts. Through thematic analysis of these sources, we identified a total of 162 architectural patterns and strategies, 145 from GitHub and 17 from Stack Exchange. In parallel, a systematic literature review was conducted across major databases (IEEE, ACM, SpringerLink, etc.), yielding 195 patterns and strategies from 90 peer-reviewed studies after rigorous screening and quality assessment. By integrating findings from both empirical and literature-based analyses, we unified and consolidated a final set of 63 unique architecture patterns and strategies, categorized into six key design areas in quantum software systems: 1) 18 for Communication, 2) 7 for Decomposition, 3) 12 for Data Processing, 4) 8 for Fault Tolerance, 5) 9 for Integration and Optimization, and 6) 9 for Algorithm Implementation.
 </p>
 
 
@@ -138,26 +138,29 @@ This model supports the design of quantum algorithms through modular and reusabl
 
 #### Evaluation of Decision Models
 <p>
-To evaluate the proposed decision models, we conducted semi-structured interviews with 16 practitioners using a standardized interview questionnaire\footnote{\url{https://docs.google.com/document/d/1lz0-mAz9rU2OQdewvDSbIYnGNEZQOm6c2t0XgT6iWnQ/edit?usp=sharing}}. The results of this evaluation are organized into two parts: (1) participant demographic and professional background, and (2) evaluation of the decision models with respect to familiarity, understandability, and correctness.
+To evaluate the proposed decision models, we conducted semi-structured interviews with 16 practitioners using a standardized [interview questionnaire](https://docs.google.com/document/d/1lz0-mAz9rU2OQdewvDSbIYnGNEZQOm6c2t0XgT6iWnQ/edit?usp=sharing). The results of this evaluation are organized into two parts: (1) participant demographic and professional background, and (2) evaluation of the decision models with respect to familiarity, understandability, and correctness.
 </p>
 
 
 ### Participant Demographics and Professional Background
 
+<p>
 To evaluate the decision models, we conducted semi-structured interviews with 16 practitioners from Asia, Africa, and Europe. Most participants had 6–10 years of experience in software development, and 2–10 years in quantum software development. Their roles ranged from researchers and developers to physicists and project managers, reflecting the interdisciplinary nature of the field. They were also involved in various quantum domains such as cryptography, AI/ML, optimization, simulation, and healthcare, often contributing to multiple domains simultaneously.
-
 </p>
-
-<br>
-
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/2d856397-afa1-4729-8413-f710c72de257" alt="Model and Notation (BPMN)"  width="600" height="210">
+   <img src="https://github.com/user-attachments/assets/2d856397-afa1-4729-8413-f710c72de257" alt="Model and Notation (BPMN)"  width="600" height="400">
 </p>
 
 
 ### Practitioner Feedback on Decision Models
 
+<p>
 Practitioners generally reported high familiarity with the architectural patterns and strategies in the six proposed decision models. They found the models understandable, well-structured, and easy to apply in practice. All six models were considered sufficient for supporting architectural decisions in quantum software systems. Suggestions included adding more explicit trade-offs, clarifying relationships between patterns and quality attributes, and improving directional guidance. These inputs were incorporated into updated versions of the models.
+</p>
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/2d856397-afa1-4729-8413-f710c72de257" alt="Model and Notation (BPMN)"  width="600" height="400">
+</p>
 
 
 
