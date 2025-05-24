@@ -1,7 +1,8 @@
 <p align="center">
-    <img src="(https://github.com/user-attachments/assets/8c21ec8f-454f-46d0-8934-9dc70491f71f" alt="Logo" width="180" height="250">
+    <img src="(https://github.com/user-attachments/assets/a98339cc-f51d-4d03-99a0-49074b899d37" alt="Logo" width="180" height="250">
 </p>
 
+![Decision Models for Selecting Patterns and Strategies in Quantum Software Systems-GitHub DM Project logo (3)](https://github.com/user-attachments/assets/a98339cc-f51d-4d03-99a0-49074b899d37)
 
 <h2 align="center">Decision Models for Selecting Patterns and Strategies in Quantum Software Systems</h3>
 
