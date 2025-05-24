@@ -24,13 +24,17 @@ This research paper is divided into three main phases.
   - [Identifying Quantum Patterns and Strategies](#identifying-quantum-patterns-and-strategies)
   - [Modeling Decision Models](#modeling-decision-models)
   - [Evaluating Decision Models](#evaluating-decision-models)
-  
-- [Phase 2: Decision Models](#enabling-collaborative-architecting)
-  - [Decision Model for Structural Abstraction](#decision-model-for-structural-abstraction)
-  - [Decision Model for Communications](#decision-model-for-communications)
-  - [Decision Model for Integration and Optimization](#decision-model-for-integration-and-optimization)
+
+- [Phase 2: Decision Models](#decision-models)
+  - [Decision Model for Communication](#decision-model-for-communication)
+  - [Decision Model for Decomposition](#decision-model-for-decomposition)
   - [Decision Model for Data Processing](#decision-model-for-data-processing)
+  - [Decision Model for Fault Tolerance](#decision-model-for-fault-tolerance)
+  - [Decision Model for Integration and Optimization](#decision-model-for-integration-and-optimization)
+  - [Decision Model for Algorithm Implementation](#decision-model-for-algorithm-implementation)
+
 - [Phase 3: Evaluation of Decision Models](#evaluation-of-decision-models)
+
 
 
 ### Phase 1: Research Design
@@ -76,40 +80,50 @@ In our study, we conducted a survey of quantum software practitioners and aimed 
 ### Phase 2: Decision Models
 
 <p>
-We proposed a set of decision models for selecting patterns and strategies in four areas of quantum software systems design: structural abstraction, communication, integration and optimization, and data processing. These decision models are proposed based on the knowledge collected from analyzing quantum software development discussions in GitHub issues and Stack Exchange posts. These models will help practitioners choose suitable patterns and strategies to address various design challenges in quantum software systems.
-</p>
-  
-#### Decision Model for Structural Abstraction
-
-<p>
-The decision model for structural abstraction in quantum software system design is a comprehensive framework that guides practitioners in selecting the most appropriate architecture pattern
-based on the impact for structural abstraction. Each pattern within the model serves a specific purpose and is evaluated based on its positive and negative impacts on these attributes.
+We proposed a set of decision models for selecting patterns and strategies in six critical areas of quantum software system design: <strong>Communication</strong>, <strong>Decomposition</strong>, <strong>Data Processing</strong>, <strong>Fault Tolerance</strong>, <strong>Integration and Optimization</strong>, and <strong>Algorithm Implementation</strong>. These models are developed based on insights gathered from analyzing real-world development discussions in GitHub issues and Stack Exchange posts. They aim to guide practitioners in addressing design challenges by providing structured pathways to select suitable architectural patterns and strategies while balancing relevant quality trade-offs.
 </p>
 
-  
-#### Decision Model for Communications
+#### Decision Model for Communication
 
 <p>
-The decision model for quantum communication aids practitioners in choosing the right communication pattern for quantum software systems by evaluating the impact of quality attributes. This model is vital for enhancing the interaction between quantum components to ensure eﬀiciency, reliability, and scalability. 
+The decision model for quantum communication aids practitioners in choosing the right communication pattern for quantum software systems by evaluating their impact on key quality attributes. It enhances interactions between quantum and classical components to ensure <em>efficiency, reliability, and scalability</em> in distributed or hybrid quantum systems.
 </p>
 
-#### Decision Model for Integration and Optimization
+#### Decision Model for Decomposition
 
 <p>
-The decision model for quantum integration and optimization aims to streamline the development and enhancement of quantum software systems by guiding the selection of appropriate architectural patterns based on the impact of quality attributes. This model helps practitioners integrate various programming techniques and optimize quantum operations, considering eﬀiciency, extensibility, and testability
+This model assists in decomposing complex quantum systems into smaller, modular components. It guides the selection of architectural strategies that improve <em>modularity, maintainability, scalability</em>, and <em>testability</em>. Such decomposition is critical in enabling manageable development and testing workflows in hybrid quantum-classical environments.
 </p>
 
 #### Decision Model for Data Processing
 
 <p>
-The decision model for quantum data processing is crafted to simplify the handling, processing, and testing of quantum data within quantum software systems. It emphasizes Performance, Compatibility, Extensibility, and Flexibility in quantum computations.
+The data processing model supports architectural decisions involving the collection, transformation, and handling of quantum data. It highlights trade-offs across <em>performance, flexibility, extensibility</em>, and <em>compatibility</em>, particularly in scenarios where quantum and classical computations must interoperate efficiently.
+</p>
+
+#### Decision Model for Fault Tolerance
+
+<p>
+This model helps in selecting fault-tolerant architectural patterns designed to mitigate the inherent instability of quantum operations. It focuses on <em>reliability, robustness, performance</em>, and <em>complexity</em>, addressing the challenges of noise, decoherence, and error propagation in quantum circuits.
+</p>
+
+#### Decision Model for Integration and Optimization
+
+<p>
+The integration and optimization model facilitates decisions regarding the seamless combination of quantum and classical components and the optimization of quantum workflows. It supports trade-offs in <em>efficiency, extensibility, testability</em>, and <em>energy-performance</em>, enabling improved system performance in hybrid execution environments.
+</p>
+
+#### Decision Model for Algorithm Implementation
+
+<p>
+This model provides guidance for implementing quantum algorithms by considering algorithmic complexity, hardware limitations, and resource availability. It balances <em>correctness, performance, portability</em>, and <em>scalability</em>, helping practitioners make informed design choices aligned with both functional requirements and quality goals.
 </p>
 
 
 ### Phase 3: Evaluation of Decision Models
 
 <p>
-  To evaluate the decision models, we conducted a survey of the response 24 practitioners.
+  To evaluate the decision models, we conducted a survey of the responses 24 practitioners.
 </p>
 
 
