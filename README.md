@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/shamimaaktar1/ADDMQSA/assets/75358854/4cf274b1-0c26-4867-9475-c1eb5a3973a2" alt="chatGPT logo" width="180" height="250">
+    <img src="https://github.com/shamimaaktar1/ADDMQSA/assets/75358854/4cf274b1-0c26-4867-9475-c1eb5a3973a2" alt="Logo" width="180" height="250">
 </p>
 
 <h2 align="center">Decision Models for Selecting Patterns and Strategies in Quantum Software Systems</h3>
@@ -96,10 +96,6 @@ To evaluate the proposed decision models, we conducted semi-structured interview
 We proposed a set of decision models for selecting patterns and strategies in six critical areas of quantum software system design: <strong>Communication</strong>, <strong>Decomposition</strong>, <strong>Data Processing</strong>, <strong>Fault Tolerance</strong>, <strong>Integration and Optimization</strong>, and <strong>Algorithm Implementation</strong>. These models are developed based on insights gathered from analyzing real-world development discussions in GitHub issues and Stack Exchange posts. They aim to guide practitioners in addressing design challenges by providing structured pathways to select suitable architectural patterns and strategies while balancing relevant quality trade-offs.
 </p>
 
-### Phase 2: Decision Models
-
-We present six decision models that guide practitioners in selecting architectural patterns and strategies across key design areas in quantum software systems. These models were derived from empirical analysis of practitioner discussions on GitHub and Stack Exchange and are structured using BPMN decision flows. Each model maps system conditions to patterns based on their influence on *quality attributes*.
-
 ---
 
 #### Decision Model for Communication
@@ -136,7 +132,7 @@ This model addresses the seamless integration of quantum components and optimiza
 
 This model supports the design of quantum algorithms through modular and reusable patterns. The **Hybrid Module** pattern integrates classical and quantum logic, while the **Quantum-Classic Split** and **Classical-Quantum Interface** patterns allow separation of concerns and simplified integration. For reusable module design, **Quantum Module Pattern** and **Quantum Module Template** offer *flexibility* and *adaptability*. Optimizing execution involves selecting **Qubit Gate**, **Brickwork**, or **Template-Matching** patterns. Finally, for hardware portability and cross-platform compatibility, the **Quantum Circuit Translator** ensures *interoperability* across diverse quantum backends.
 
-#### Evaluation of Decision Models
+#### Phase 3: Evaluation of Decision Models
 <p>
 To evaluate the proposed decision models, we conducted semi-structured interviews with 16 practitioners using a standardized [interview questionnaire](https://docs.google.com/document/d/1lz0-mAz9rU2OQdewvDSbIYnGNEZQOm6c2t0XgT6iWnQ/edit?usp=sharing). The results of this evaluation are organized into two parts: (1) participant demographic and professional background, and (2) evaluation of the decision models with respect to familiarity, understandability, and correctness.
 </p>
@@ -148,7 +144,7 @@ To evaluate the proposed decision models, we conducted semi-structured interview
 To evaluate the decision models, we conducted semi-structured interviews with 16 practitioners from Asia, Africa, and Europe. Most participants had 6–10 years of experience in software development, and 2–10 years in quantum software development. Their roles ranged from researchers and developers to physicists and project managers, reflecting the interdisciplinary nature of the field. They were also involved in various quantum domains such as cryptography, AI/ML, optimization, simulation, and healthcare, often contributing to multiple domains simultaneously.
 </p>
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/2d856397-afa1-4729-8413-f710c72de257" alt="Model and Notation (BPMN)"  width="600" height="400">
+   <img src="https://github.com/user-attachments/assets/6dd63a90-da39-4ca0-b39d-335a1bc3849a" alt="Decision Models for Selecting Patterns and Strategies in Quantum Software Systems-Demography"  width="600" height="400">
 </p>
 
 
@@ -159,10 +155,8 @@ Practitioners generally reported high familiarity with the architectural pattern
 </p>
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/2d856397-afa1-4729-8413-f710c72de257" alt="Model and Notation (BPMN)"  width="600" height="400">
+   <img src="https://github.com/user-attachments/assets/2d856397-afa1-4729-8413-f710c72de257" alt="Overview of practitioners’ responses for familiarity, understandability, and completeness of the decision models"  width="600" height="400">
 </p>
-
-
 
 
 
