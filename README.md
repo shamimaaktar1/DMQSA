@@ -55,26 +55,37 @@ The research method is described below and represented in the picture below:
 #### Identifying Quantum Patterns and Strategies
 
 <p>
-The required patterns, strategies, quality attributes, and impact of patterns on quality attributes for creating decision models are collected data from the two sources (e.g., GitHub and Stack Exchange sites) inspired by the guidelines for selecting empirical methods for software engineering research. The following are used to extract the relevant issues and posts from both GitHub and Stack Exchange sites.
+#### Identifying Quantum Patterns and Strategies
+<p>
+To develop decision models for quantum software systems, we conducted an extensive empirical investigation using data mined from 10 open-source quantum software projects on GitHub and relevant discussions from Stack Exchange platforms (Stack Overflow, Quantum Computing, and Computer Science). After systematically applying inclusion and exclusion criteria, we selected 121 relevant GitHub issues and pull requests and 13 Stack Exchange posts. Through thematic analysis of these sources, we identified a total of **162 architectural patterns and strategies**—**145** from GitHub and **17** from Stack Exchange. In parallel, a systematic literature review was conducted across major databases (IEEE, ACM, SpringerLink, etc.), yielding **195 patterns and strategies** from 90 peer-reviewed studies after rigorous screening and quality assessment. By integrating findings from both empirical and literature-based analyses, we unified and consolidated a final set of **63 unique architecture patterns and strategies**, categorized into six key design areas in quantum software systems: **18 for Communication**, **7 for Decomposition**, **12 for Data Processing**, **8 for Fault Tolerance**, **9 for Integration and Optimization**, and **9 for Algorithm Implementation**.
 </p>
 
 
 #### Modeling Decision Models
 
-<p>
-The decision flow is represented using the Inclusive, Exclusive, and Parallel gateways from the Business Process Model and Notation (BPMN). Each area of quantum software architecture design is depicted using a grey box. A circle marks the commencement of a decision process. Inclusive gateways initiate multiple outgoing paths in a decision process, while Exclusive gateways activate a single outgoing path. Conversely, Parallel gateways facilitate several concurrent outgoing paths in the decision process. Rounded rectangles denote the patterns and strategies associated with a quantum software architecture design area. A bidirectional arrow indicates a “complements” relationship between two patterns or strategies. An octagon and a dashed arrow symbolize constraints for each pattern or strategy. The positive and negative influences of each pattern or strategy on the quality attributes are signified by plus (+) and minus (-) signs, respectively. 
-</p>
+To visually represent the decision logic for selecting architectural patterns and strategies in quantum software systems, we adopted the Business Process Model and Notation (BPMN). Each decision model uses a structured set of BPMN elements to map design choices and their implications:
+
+- A **grey box** denotes a specific design area (e.g., Communication, Data Processing).
+- A **circle** marks the **starting point** of the decision process.
+- **Gateways** model the decision flow logic:
+  - **Inclusive Gateway**: activates multiple outgoing paths based on conditions.
+  - **Exclusive Gateway**: allows only one outgoing path at a time.
+  - **Parallel Gateway**: initiates all outgoing paths simultaneously.
+- **Rounded rectangles** represent architectural patterns and strategies.
+- **Plus signs (+)** indicate *quality attributes* positively influenced by a pattern.
+- **Minus signs (-)** indicate *quality attributes* negatively impacted.
+- An **octagon** connected by a **dashed arrow** shows constraints associated with a pattern.
+- A **bidirectional arrow** between two patterns represents a *complements* relationship.
+- A **single-headed arrow** indicates a *conditional flow* from one pattern to another.
+
+This modeling approach ensures that the rationale behind each architectural decision is explicit, traceable, and aligned with the trade-offs involved in quantum software design.
+
 <br>
 <br>
 
 <p align="center">
    <img src="https://github.com/shamimaaktar1/ADDMQSA/assets/75358854/8c52844e-dc48-46e9-af0b-c31c0d36e40f" alt="Model and Notation (BPMN)"  width="600" height="280">
 </p>
-
-
-#### Evaluating Decision Models
-
-In our study, we conducted a survey of quantum software practitioners and aimed to refine and evaluate our decision models. We conducted a descriptive survey following the guidelines proposed by Kitchenham and Pfleeger. Our survey questionnaire was conducted using Google Forms.
 
 
 ### Phase 2: Decision Models
@@ -122,6 +133,10 @@ This model addresses the seamless integration of quantum components and optimiza
 #### Decision Model for Algorithm Implementation
 
 This model supports the design of quantum algorithms through modular and reusable patterns. The **Hybrid Module** pattern integrates classical and quantum logic, while the **Quantum-Classic Split** and **Classical-Quantum Interface** patterns allow separation of concerns and simplified integration. For reusable module design, **Quantum Module Pattern** and **Quantum Module Template** offer *flexibility* and *adaptability*. Optimizing execution involves selecting **Qubit Gate**, **Brickwork**, or **Template-Matching** patterns. Finally, for hardware portability and cross-platform compatibility, the **Quantum Circuit Translator** ensures *interoperability* across diverse quantum backends.
+
+#### Evaluating Decision Models
+
+In our study, we conducted a survey of quantum software practitioners and aimed to refine and evaluate our decision models. We conducted a descriptive survey following the guidelines proposed by Kitchenham and Pfleeger. Our survey questionnaire was conducted using Google Forms.
 
 
 
