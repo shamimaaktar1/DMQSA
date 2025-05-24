@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/a98339cc-f51d-4d03-99a0-49074b899d37" alt="Logo" width="180" height="230" />
+    <img src="https://github.com/user-attachments/assets/a98339cc-f51d-4d03-99a0-49074b899d37" alt="Logo" width="180" height="300" />
 </p>
 
 <h2 align="center">Decision Models for Selecting Patterns and Strategies in Quantum Software Systems</h2>
