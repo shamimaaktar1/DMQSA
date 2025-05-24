@@ -32,8 +32,10 @@ This research paper is divided into three main phases.
   - [Decision Model for Fault Tolerance](#decision-model-for-fault-tolerance)
   - [Decision Model for Integration and Optimization](#decision-model-for-integration-and-optimization)
   - [Decision Model for Algorithm Implementation](#decision-model-for-algorithm-implementation)
-
+ 
 - [Phase 3: Evaluation of Decision Models](#evaluation-of-decision-models)
+  - [Decision Model for Communication](#decision-model-for-communication)
+  - [Decision Model for Decomposition](#decision-model-for-decomposition)
 
 
 
@@ -136,8 +138,28 @@ This model supports the design of quantum algorithms through modular and reusabl
 
 #### Evaluation of Decision Models
 <p>
-To evaluate the decision models, we conducted semi-structured interviews with 16 practitioners from Asia, Africa, and Europe, most of whom were mid-level professionals with 2–10 years of experience in quantum software development. Participants represented diverse roles including researchers, developers, and physicists, and were engaged in domains such as quantum cryptography, AI/ML, optimization, and simulation. Most respondents reported being familiar with the patterns and strategies across all six models. They rated the models as generally easy to understand and found them sufficient to support architectural decision-making. Notably, all participants agreed that the models for decomposition, data processing, fault tolerance, integration and optimization, and algorithm implementation were sufficient, with only one participant expressing partial sufficiency for the communication model. Suggestions for improvement included refining pattern relationships, clarifying trade-offs, and adding directionality and quantitative evaluations. These insights were incorporated to improve the clarity and utility of the final models.
+To evaluate the proposed decision models, we conducted semi-structured interviews with 16 practitioners using a standardized interview questionnaire\footnote{\url{https://docs.google.com/document/d/1lz0-mAz9rU2OQdewvDSbIYnGNEZQOm6c2t0XgT6iWnQ/edit?usp=sharing}}. The results of this evaluation are organized into two parts: (1) participant demographic and professional background, and (2) evaluation of the decision models with respect to familiarity, understandability, and correctness.
 </p>
+
+
+### Participant Demographics and Professional Background
+
+To evaluate the decision models, we conducted semi-structured interviews with 16 practitioners from Asia, Africa, and Europe. Most participants had 6–10 years of experience in software development, and 2–10 years in quantum software development. Their roles ranged from researchers and developers to physicists and project managers, reflecting the interdisciplinary nature of the field. They were also involved in various quantum domains such as cryptography, AI/ML, optimization, simulation, and healthcare, often contributing to multiple domains simultaneously.
+
+</p>
+
+<br>
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/2d856397-afa1-4729-8413-f710c72de257" alt="Model and Notation (BPMN)"  width="600" height="210">
+</p>
+
+
+### Practitioner Feedback on Decision Models
+
+Practitioners generally reported high familiarity with the architectural patterns and strategies in the six proposed decision models. They found the models understandable, well-structured, and easy to apply in practice. All six models were considered sufficient for supporting architectural decisions in quantum software systems. Suggestions included adding more explicit trade-offs, clarifying relationships between patterns and quality attributes, and improving directional guidance. These inputs were incorporated into updated versions of the models.
+
+
 
 
 
