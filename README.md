@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="(https://github.com/user-attachments/assets/8c21ec8f-454f-46d0-8934-9dc70491f71f" alt="ChatGPT Logo" width="180" height="250">
+    <img src="(https://github.com/user-attachments/assets/8c21ec8f-454f-46d0-8934-9dc70491f71f" alt="Logo" width="180" height="250">
 </p>
 
 
