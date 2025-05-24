@@ -81,7 +81,7 @@ This modeling structure ensures a clear, traceable, and standardized representat
 <br>
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/4ca46ea6-5987-4098-8bdd-ebbb30c33a34" alt="Model and Notation (BPMN)"  width="600" height="280">
+   <img src="https://github.com/user-attachments/assets/4ca46ea6-5987-4098-8bdd-ebbb30c33a34" alt="Model and Notation (BPMN)"  width="600" height="230">
 </p>
 
 #### Evaluating Decision Models
