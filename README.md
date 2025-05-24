@@ -84,6 +84,10 @@ This modeling structure ensures a clear, traceable, and standardized representat
    <img src="https://github.com/shamimaaktar1/ADDMQSA/assets/75358854/8c52844e-dc48-46e9-af0b-c31c0d36e40f" alt="Model and Notation (BPMN)"  width="600" height="280">
 </p>
 
+#### Evaluating Decision Models
+
+To evaluate the proposed decision models, we conducted semi-structured interviews with 16 quantum software practitioners from eight countries, selected via GitHub, professional platforms (e.g., LinkedIn, Facebook), and personal networks. Participants received a questionnaire and a supplementary document with architectural pattern examples in advance. The interview guide, structured into seven sections, assessed six decision models across core design areas and collected both quantitative and qualitative insights. Inclusion and exclusion criteria ensured high-quality responses. Interviews were transcribed, coded, and analyzed using descriptive statistics and grounded theory methods. This evaluation helped assess the models’ *usefulness*, *correctness*, *completeness*, and *understandability*, offering practitioner-driven insights to refine the decision models.
+
 
 ### Phase 2: Decision Models
 
