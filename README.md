@@ -86,7 +86,7 @@ We proposed a set of decision models for selecting patterns and strategies in si
 #### Decision Model for Communication
 
 <p>
-The decision model for quantum communication aids practitioners in choosing the right communication pattern for quantum software systems by evaluating their impact on key quality attributes. It enhances interactions between quantum and classical components to ensure <em>efficiency, reliability, and scalability</em> in distributed or hybrid quantum systems.
+This model helps practitioners choose communication patterns by evaluating requirements for latency, reliability, and interoperability between quantum and classical components. It includes patterns such as Quantum Proxy, Broker-Client Separation, and Quantum API Gateway, which enhance modularity, scalability, and interoperability while introducing trade-offs in availability and performance. Gateways determine suitable paths depending on whether secure communication, abstraction of services, or hardware selection is prioritized.
 </p>
 
 #### Decision Model for Decomposition
