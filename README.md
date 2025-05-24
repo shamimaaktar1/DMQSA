@@ -63,22 +63,21 @@ To develop decision models for quantum software systems, we conducted an extensi
 
 #### Modeling Decision Models
 
-To visually represent the decision logic for selecting architectural patterns and strategies in quantum software systems, we adopted the Business Process Model and Notation (BPMN). Each decision model uses a structured set of BPMN elements to map design choices and their implications:
+To model the decision-making process for selecting architectural patterns and strategies in quantum software systems, we adopted the Business Process Model and Notation (BPMN). The following elements are used in each decision model:
 
-- A **grey box** denotes a specific design area (e.g., Communication, Data Processing).
-- A **circle** marks the **starting point** of the decision process.
-- **Gateways** model the decision flow logic:
-  - **Inclusive Gateway**: activates multiple outgoing paths based on conditions.
-  - **Exclusive Gateway**: allows only one outgoing path at a time.
-  - **Parallel Gateway**: initiates all outgoing paths simultaneously.
-- **Rounded rectangles** represent architectural patterns and strategies.
-- **Plus signs (+)** indicate *quality attributes* positively influenced by a pattern.
-- **Minus signs (-)** indicate *quality attributes* negatively impacted.
-- An **octagon** connected by a **dashed arrow** shows constraints associated with a pattern.
-- A **bidirectional arrow** between two patterns represents a *complements* relationship.
-- A **single-headed arrow** indicates a *conditional flow* from one pattern to another.
+1. A **grey box** represents a specific design area within quantum software systems (e.g., Communication, Decomposition).
+2. A **circle** marks the **starting point** of the decision process.
+3. An **Inclusive Gateway** allows multiple outgoing paths to be activated based on specific conditions.
+4. An **Exclusive Gateway** permits only one outgoing path to proceed based on a selected condition.
+5. A **Parallel Gateway** triggers all outgoing paths simultaneously to represent concurrent execution.
+6. **Rounded rectangles** depict architectural patterns and strategies relevant to the design area.
+7. A **plus sign (+)** indicates a *quality attribute* positively influenced by the associated pattern or strategy.
+8. A **minus sign (-)** indicates a *quality attribute* negatively impacted by the pattern or strategy.
+9. An **octagon** connected by a **dashed arrow** to a pattern denotes a constraint applied to that pattern.
+10. A **double-headed arrow (⇉)** pointing in the same direction represents a *complements* relationship between two patterns or strategies.
+11. A **single-headed arrow (→)** indicates a *conditional flow* between elements in the decision process.
 
-This modeling approach ensures that the rationale behind each architectural decision is explicit, traceable, and aligned with the trade-offs involved in quantum software design.
+This modeling structure ensures a clear, traceable, and standardized representation of decision flows, helping practitioners evaluate trade-offs and make informed architectural decisions in quantum software systems.
 
 <br>
 <br>
