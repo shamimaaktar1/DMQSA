@@ -55,8 +55,6 @@ The research method is described below and represented in the picture below:
 #### Identifying Quantum Patterns and Strategies
 
 <p>
-#### Identifying Quantum Patterns and Strategies
-<p>
 To develop decision models for quantum software systems, we conducted an extensive empirical investigation using data mined from 10 open-source quantum software projects on GitHub and relevant discussions from Stack Exchange platforms (Stack Overflow, Quantum Computing, and Computer Science). After systematically applying inclusion and exclusion criteria, we selected 121 relevant GitHub issues and pull requests and 13 Stack Exchange posts. Through thematic analysis of these sources, we identified a total of **162 architectural patterns and strategies**—**145** from GitHub and **17** from Stack Exchange. In parallel, a systematic literature review was conducted across major databases (IEEE, ACM, SpringerLink, etc.), yielding **195 patterns and strategies** from 90 peer-reviewed studies after rigorous screening and quality assessment. By integrating findings from both empirical and literature-based analyses, we unified and consolidated a final set of **63 unique architecture patterns and strategies**, categorized into six key design areas in quantum software systems: **18 for Communication**, **7 for Decomposition**, **12 for Data Processing**, **8 for Fault Tolerance**, **9 for Integration and Optimization**, and **9 for Algorithm Implementation**.
 </p>
 
