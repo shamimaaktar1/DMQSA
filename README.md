@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/shamimaaktar1/ADDMQSA/assets/75358854/4cf274b1-0c26-4867-9475-c1eb5a3973a2" alt="Logo" width="180" height="250">
+    <img src="https://github.com/shamimaaktar1/ADDMQSA/assets/75358854/4cf274b1-0c26-4867-9475-c1eb5a3973a2" alt="ChatGPT Logo" width="180" height="250">
 </p>
 
 <h2 align="center">Decision Models for Selecting Patterns and Strategies in Quantum Software Systems</h3>
@@ -11,7 +11,7 @@
   
 ## File Organization
 
-1. `Dataset.xlsx` contains the information about i) selected GitHub projects, ii) selected Stack Exchange sites, iii) selected GitHub issues, iv) Selected Stack Exchange posts, v) raw data of GitHub issues, vi) raw data of stack exchange posts, vii) pattern and strategy impact.
+1. `Dataset.xlsx` contains the information about i) selected GitHub projects, ii) selected Stack Exchange sites, iii) selected GitHub issues, iv) Selected Stack Exchange posts, v) raw data of GitHub issues, vi) raw data of Stack Exchange posts, vii) pattern and strategy impact.
 2. `Decision Models` folder contains the high-quality figures of the four decision models, namely, the decision model for i) Communication, ii) Decomposition, iii) Data
 Processing, iv) Fault Tolerance, v) Integration and Optimization, and vi) Algorithm Implementation.
 
