@@ -144,7 +144,7 @@ To evaluate the proposed decision models, we conducted semi-structured interview
 To evaluate the decision models, we conducted semi-structured interviews with 16 practitioners from Asia, Africa, and Europe. Most participants had 6–10 years of experience in software development, and 2–10 years in quantum software development. Their roles ranged from researchers and developers to physicists and project managers, reflecting the interdisciplinary nature of the field. They were also involved in various quantum domains such as cryptography, AI/ML, optimization, simulation, and healthcare, often contributing to multiple domains simultaneously.
 </p>
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/6dd63a90-da39-4ca0-b39d-335a1bc3849a" alt="Decision Models for Selecting Patterns and Strategies in Quantum Software Systems-Demography"  width="600" height="730">
+   <img src="https://github.com/user-attachments/assets/6dd63a90-da39-4ca0-b39d-335a1bc3849a" alt="Decision Models for Selecting Patterns and Strategies in Quantum Software Systems-Demography"  width="600" height="760">
 </p>
 
 
