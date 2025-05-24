@@ -12,7 +12,8 @@
 ## File Organization
 
 1. `Dataset.xlsx` contains the information about i) selected GitHub projects, ii) selected Stack Exchange sites, iii) selected GitHub issues, iv) Selected Stack Exchange posts, v) raw data of GitHub issues, vi) raw data of stack exchange posts, vii) pattern and strategy impact.
-2. `Decision Models` folder contains the high-quality figures of the four decision models, namely, the decision model for I) structural abstraction, ii) communications, iii) integration and optimization, iv) data processing.
+2. `Decision Models` folder contains the high-quality figures of the four decision models, namely, the decision model for i) Communication, ii) Decomposition, iii) Data
+Processing, iv) Fault Tolerance, v) Integration and Optimization, and vi) Algorithm Implementation.
 
 
 ## Experiment Replication Steps
