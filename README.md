@@ -2,10 +2,10 @@
     <img src="https://github.com/user-attachments/assets/a98339cc-f51d-4d03-99a0-49074b899d37" alt="Logo" width="180" height="230" />
 </p>
 
-<h2 align="center">Decision Models for Selecting Patterns and Strategies in Quantum Software Systems</h2>
+<h2 align="center">Decision Models for Selecting Architecture Patterns and Strategies in Quantum Software Systems</h2>
 
 <p align="left">
-  This is the replication package for the paper: "Decision Models for Selecting Patterns and Strategies in Quantum Software Systems", including the dataset, figures, scripts, and so on (see the description below).
+  This is the replication package for the paper: "Decision Models for Selecting Architecture Patterns and Strategies in Quantum Software Systems", including the dataset, figures, scripts, and so on (see the description below).
 </p>
 
 ## File Organization
@@ -132,7 +132,7 @@ This model addresses the seamless integration of quantum components and optimiza
 
 This model supports the design of quantum algorithms through modular and reusable patterns. The **Hybrid Module** pattern integrates classical and quantum logic, while the **Quantum-Classic Split** and **Classical-Quantum Interface** patterns allow separation of concerns and simplified integration. For reusable module design, **Quantum Module Pattern** and **Quantum Module Template** offer *flexibility* and *adaptability*. Optimizing execution involves selecting **Qubit Gate**, **Brickwork**, or **Template-Matching** patterns. Finally, for hardware portability and cross-platform compatibility, the **Quantum Circuit Translator** ensures *interoperability* across diverse quantum backends.
 
-#### Phase 3: Evaluation of Decision Models
+### Phase 3: Evaluation of Decision Models
 <p>
 To evaluate the proposed decision models, we conducted semi-structured interviews with 16 practitioners using a standardized [interview questionnaire](https://docs.google.com/document/d/1lz0-mAz9rU2OQdewvDSbIYnGNEZQOm6c2t0XgT6iWnQ/edit?usp=sharing). The results of this evaluation are organized into two parts: (1) participant demographic and professional background, and (2) evaluation of the decision models with respect to familiarity, understandability, and correctness.
 </p>
