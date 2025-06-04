@@ -20,12 +20,12 @@ Processing, iv) Fault Tolerance, v) Integration and Optimization, and vi) Algori
 
 This research paper is divided into three main phases.
 
-- [Phase 1: Research Design](#research-design)
+- [Stage 1: Research Design](#research-design)
   - [Identifying Quantum Patterns and Strategies](#identifying-quantum-patterns-and-strategies)
   - [Modeling Decision Models](#modeling-decision-models)
   - [Evaluating Decision Models](#evaluating-decision-models)
 
-- [Phase 2: Decision Models](#decision-models)
+- [Stage 2: Decision Models](#decision-models)
   - [Decision Model for Communication](#decision-model-for-communication)
   - [Decision Model for Decomposition](#decision-model-for-decomposition)
   - [Decision Model for Data Processing](#decision-model-for-data-processing)
@@ -33,13 +33,13 @@ This research paper is divided into three main phases.
   - [Decision Model for Integration and Optimization](#decision-model-for-integration-and-optimization)
   - [Decision Model for Algorithm Implementation](#decision-model-for-algorithm-implementation)
  
-- [Phase 3: Evaluation of Decision Models](#evaluation-of-decision-models)
+- [Stage 3: Evaluation of Decision Models](#evaluation-of-decision-models)
   - [Participant Demographics and Professional Background](#participant-demographics-and-professional-background)
   - [Practitioner Feedback on Decision Models](#practitioner-feedback-on-decision-models)
 
 
 
-### Phase 1: Research Design
+### Stage 1: Research Design
 
 <p>
 The decision models were explicitly crafted for four critical areas of quantum software design: structural abstraction, communication, integration and optimization, and data processing. These areas were chosen because they are fundamental to addressing critical design, implementation, integration, and data management challenges.
@@ -90,7 +90,7 @@ This modeling structure ensures a clear, traceable, and standardized representat
 To evaluate the proposed decision models, we conducted semi-structured interviews with 16 quantum software practitioners from eight countries, selected via GitHub, professional platforms (e.g., LinkedIn, Facebook), and personal networks. Participants received a questionnaire and a supplementary document with architectural pattern examples in advance. The interview guide, structured into seven sections, assessed six decision models across core design areas and collected both quantitative and qualitative insights. Inclusion and exclusion criteria ensured high-quality responses. Interviews were transcribed, coded, and analyzed using descriptive statistics and grounded theory methods. This evaluation helped assess the models’ *usefulness*, *correctness*, *completeness*, and *understandability*, offering practitioner-driven insights to refine the decision models.
 
 
-### Phase 2: Decision Models
+### Stage 2: Decision Models
 
 <p>
 We proposed a set of decision models for selecting patterns and strategies in six critical areas of quantum software system design: <strong>Communication</strong>, <strong>Decomposition</strong>, <strong>Data Processing</strong>, <strong>Fault Tolerance</strong>, <strong>Integration and Optimization</strong>, and <strong>Algorithm Implementation</strong>. These models are developed based on insights gathered from analyzing real-world development discussions in GitHub issues and Stack Exchange posts. They aim to guide practitioners in addressing design challenges by providing structured pathways to select suitable architectural patterns and strategies while balancing relevant quality trade-offs.
@@ -132,7 +132,7 @@ This model addresses the seamless integration of quantum components and optimiza
 
 This model supports the design of quantum algorithms through modular and reusable patterns. The **Hybrid Module** pattern integrates classical and quantum logic, while the **Quantum-Classic Split** and **Classical-Quantum Interface** patterns allow separation of concerns and simplified integration. For reusable module design, **Quantum Module Pattern** and **Quantum Module Template** offer *flexibility* and *adaptability*. Optimizing execution involves selecting **Qubit Gate**, **Brickwork**, or **Template-Matching** patterns. Finally, for hardware portability and cross-platform compatibility, the **Quantum Circuit Translator** ensures *interoperability* across diverse quantum backends.
 
-### Phase 3: Evaluation of Decision Models
+### Stage 3: Evaluation of Decision Models
 <p>
 To evaluate the proposed decision models, we conducted semi-structured interviews with 16 practitioners using a standardized [interview questionnaire](https://docs.google.com/document/d/1lz0-mAz9rU2OQdewvDSbIYnGNEZQOm6c2t0XgT6iWnQ/edit?usp=sharing). The results of this evaluation are organized into two parts: (1) participant demographic and professional background, and (2) evaluation of the decision models with respect to familiarity, understandability, and correctness.
 </p>
