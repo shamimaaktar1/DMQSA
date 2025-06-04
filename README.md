@@ -15,7 +15,6 @@
 2. `Decision Models` folder contains the high-quality figures of the four decision models, namely, the decision model for i) Communication, ii) Decomposition, iii) Data
 Processing, iv) Fault Tolerance, v) Integration and Optimization, and vi) Algorithm Implementation.
 
-
 ## Experiment Replication Steps
 
 This research paper is divided into three main phases.
@@ -49,7 +48,7 @@ The research method is described below and represented in the picture below:
 <br>
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/194ccb55-908d-4deb-b8c7-7576c203fe3f" alt="Research Process"  width="650" height="600">
+   <img src="https://github.com/user-attachments/assets/c4ebd8fc-b7ce-4547-ba3e-41ab197e0032" alt="Research Process"  width="650" height="600">
 </p>
 
 
