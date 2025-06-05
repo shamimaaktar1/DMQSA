@@ -106,14 +106,16 @@ This model helps practitioners choose communication patterns by evaluating requi
    <img src="https://github.com/user-attachments/assets/ce1663e1-1d5f-4398-821e-41246e8cf7d0" alt=""  width="650" height="800">
 </p>
 
-
-
-
 ---
 
 #### Decision Model for Decomposition
 
 The decomposition model structures quantum systems into manageable modules. It begins with **Quantum Microservices**, promoting *maintainability*, *scalability*, and *performance*, but with reduced *flexibility*. For layered-based decomposition, patterns like **Quantum Layered**, **Quantum Multi-Tier**, and **Recursive Containment** are selected based on system needs. These improve *extensibility*, *modularity*, and *portability*, but may impact *cost*, *reliability*, or *complexity*. Additionally, functionality-based decomposition uses **Single Responsibility** or **Decomposed by Business Capabilities** patterns to enhance *maintainability* and *performance*.
+
+<br>
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/abf6aca3-9bb2-4a58-b5ba-ec9340e37977" alt=""  width="650" height="500">
+</p>
 
 ---
 
