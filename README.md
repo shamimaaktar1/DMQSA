@@ -159,7 +159,7 @@ This model supports the design of quantum algorithms through modular and reusabl
 
 <br>
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/3e17d951-b6b2-4e52-bade-407e94c5ce14" alt="Decision Model for Algorithm Implementation"  width="650" height="550">
+   <img src="https://github.com/user-attachments/assets/3e17d951-b6b2-4e52-bade-407e94c5ce14" alt="Decision Model for Algorithm Implementation"  width="650" height="400">
 </p>
 
 ### Stage 3: Evaluation of Decision Models
