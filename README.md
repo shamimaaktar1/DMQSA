@@ -114,7 +114,7 @@ The decomposition model structures quantum systems into manageable modules. It b
 
 <br>
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/abf6aca3-9bb2-4a58-b5ba-ec9340e37977" alt="Decision Model for Decomposition"  width="650" height="350">
+   <img src="https://github.com/user-attachments/assets/abf6aca3-9bb2-4a58-b5ba-ec9340e37977" alt="Decision Model for Decomposition"  width="650" height="450">
 </p>
 
 ---
