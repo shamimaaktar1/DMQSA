@@ -125,7 +125,7 @@ This model guides the selection of data handling patterns through inclusive and 
 
 <br>
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/477289f6-a289-4a35-8336-00433a5365f1" alt="Decision Model for Data Processing"  width="650" height="500">
+   <img src="https://github.com/user-attachments/assets/477289f6-a289-4a35-8336-00433a5365f1" alt="Decision Model for Data Processing"  width="650" height="550">
 </p>
 
 ---
