@@ -103,7 +103,7 @@ This model helps practitioners choose communication patterns by evaluating requi
 <br>
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/ce1663e1-1d5f-4398-821e-41246e8cf7d0" alt=""  width="650" height="600">
+   <img src="https://github.com/user-attachments/assets/ce1663e1-1d5f-4398-821e-41246e8cf7d0" alt=""  width="650" height="800">
 </p>
 
 
