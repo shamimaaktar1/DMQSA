@@ -114,7 +114,7 @@ The decomposition model structures quantum systems into manageable modules. It b
 
 <br>
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/abf6aca3-9bb2-4a58-b5ba-ec9340e37977" alt="Decision Model for Decomposition"  width="650" height="400">
+   <img src="https://github.com/user-attachments/assets/abf6aca3-9bb2-4a58-b5ba-ec9340e37977" alt="Decision Model for Decomposition"  width="650" height="350">
 </p>
 
 ---
@@ -125,7 +125,7 @@ This model guides the selection of data handling patterns through inclusive and 
 
 <br>
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/477289f6-a289-4a35-8336-00433a5365f1" alt="Decision Model for Data Processing"  width="650" height="500">
+   <img src="https://github.com/user-attachments/assets/477289f6-a289-4a35-8336-00433a5365f1" alt="Decision Model for Data Processing"  width="650" height="400">
 </p>
 
 ---
