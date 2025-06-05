@@ -5,14 +5,14 @@
 <h2 align="center">Decision Models for Selecting Architecture Patterns and Strategies in Quantum Software Systems</h2>
 
 <p align="left">
-  This is the replication package for the paper: "Decision Models for Selecting Architecture Patterns and Strategies in Quantum Software Systems", including the dataset, figures, and so on (see the description below).
+  This is the replication package for the paper: "Decision Models for Selecting Architecture Patterns and Strategies in Quantum Software Systems", including the dataset, figures of decision models, and so on (see the description below).
 </p>
 
 ## File Organization
 
 
 1. `Dataset.xlsx` contains the information about i) Selected  GitHub Projects, ii) Selected Stack Exchange Sites, iii) Selected Databases, iv) Selected GitHub Issues & Pull Requests (PR), v) Selected Stack Exchange Posts, vi) Selected Studies, vii) GitHub Raw Data, viii) Stack Exchange Raw Data, ix) Scientific Studies Raw Data, x)Pattern & Strategy Impact, and xi) Selected Patterns & Strategies
-2. `Decision Models` folder contains the high-quality figures of the four decision models, namely, the decision model for i) Communication, ii) Decomposition, iii) Data
+2. `Decision Models` folder contains the high-quality figures of the six decision models, namely, the decision model for i) Communication, ii) Decomposition, iii) Data
 Processing, iv) Fault Tolerance, v) Integration and Optimization, and vi) Algorithm Implementation.
 
 ## Experiment Replication Steps
