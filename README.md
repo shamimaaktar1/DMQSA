@@ -136,7 +136,7 @@ Focused on improving *reliability* and fault resilience, this model begins with 
 
 <br>
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/16e0d7b8-76f9-4789-bb60-80f9143d2a42" alt="Decision Model for Fault Tolerance"  width="650" height="500">
+   <img src="https://github.com/user-attachments/assets/16e0d7b8-76f9-4789-bb60-80f9143d2a42" alt="Decision Model for Fault Tolerance"  width="650" height="550">
 </p>
 
 
