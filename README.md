@@ -103,7 +103,7 @@ This model helps practitioners choose communication patterns by evaluating requi
 <br>
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/ce1663e1-1d5f-4398-821e-41246e8cf7d0" alt=""  width="650" height="800">
+   <img src="https://github.com/user-attachments/assets/ce1663e1-1d5f-4398-821e-41246e8cf7d0" alt="Decision Model for Communication"  width="650" height="800">
 </p>
 
 ---
@@ -114,7 +114,7 @@ The decomposition model structures quantum systems into manageable modules. It b
 
 <br>
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/abf6aca3-9bb2-4a58-b5ba-ec9340e37977" alt=""  width="650" height="500">
+   <img src="https://github.com/user-attachments/assets/abf6aca3-9bb2-4a58-b5ba-ec9340e37977" alt="Decision Model for Decomposition"  width="650" height="400">
 </p>
 
 ---
@@ -123,11 +123,22 @@ The decomposition model structures quantum systems into manageable modules. It b
 
 This model guides the selection of data handling patterns through inclusive and exclusive gateways. When managing multi-stage data processing, the **Pipe and Filter** pattern enhances *flexibility* but may reduce *performance*. On-demand management leads to the **Consumer** pattern, while dynamic testing activates **Data-Driven Testing**. Advanced encoding needs activate patterns like **Quantum Data Encoding**, **Amplitude Encoding**, **Angle Encoding**, and **Basis Encoding**, each balancing trade-offs among *scalability*, *performance*, and *complexity*. For integration and conversion of quantum-classical data, **Quantum Mediator Wrapper** and **Measurement** patterns are used.
 
+<br>
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/477289f6-a289-4a35-8336-00433a5365f1" alt="Decision Model for Data Processing"  width="650" height="500">
+</p>
+
 ---
 
 #### Decision Model for Fault Tolerance
 
 Focused on improving *reliability* and fault resilience, this model begins with inclusive gateways to assess tolerance and detection requirements. **Sparing**, **Comparison**, and **Voting** patterns are selected for redundancy and fault detection, offering strong *fault recovery* and *reliability* but with *performance* and *complexity* trade-offs. For correction, **Error Correction**, **Readout Error Mitigation**, and **Gate Error Mitigation** address specific fault sources. Additionally, **Decorator Design Pattern** and **Quantum Patterns of Behavior (qPoB)** offer high-level fault mitigation mechanisms, enhancing *adaptability* but increasing *system complexity*.
+
+<br>
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/16e0d7b8-76f9-4789-bb60-80f9143d2a42" alt="Decision Model for Fault Tolerance"  width="650" height="500">
+</p>
+
 
 ---
 
@@ -135,11 +146,21 @@ Focused on improving *reliability* and fault resilience, this model begins with 
 
 This model addresses the seamless integration of quantum components and optimization of operations. If integration is needed across quantum frameworks, the **Integration Pattern** is chosen. Optimization goals lead to selection among patterns like **Prototype Design**, **Quantum Broadcast**, **Decorator Design**, and **Quantum Transformer**, each affecting *extensibility*, *maintainability*, or *modularity*. Service-based integration activates **Quantum Service-Oriented Architecture**, **Quantum Service Registry**, **Bring Your Own Container (BYOC)**, and **Quantum Load Balancing**, depending on deployment needs, promoting *flexibility*, *discoverability*, and *resource optimization*.
 
+<br>
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/316c8c90-ec53-44b0-9842-9e4887ed3bc2" alt="Decision Model for Integration and Optimization"  width="650" height="500">
+</p>
+
 ---
 
 #### Decision Model for Algorithm Implementation
 
 This model supports the design of quantum algorithms through modular and reusable patterns. The **Hybrid Module** pattern integrates classical and quantum logic, while the **Quantum-Classic Split** and **Classical-Quantum Interface** patterns allow separation of concerns and simplified integration. For reusable module design, **Quantum Module Pattern** and **Quantum Module Template** offer *flexibility* and *adaptability*. Optimizing execution involves selecting **Qubit Gate**, **Brickwork**, or **Template-Matching** patterns. Finally, for hardware portability and cross-platform compatibility, the **Quantum Circuit Translator** ensures *interoperability* across diverse quantum backends.
+
+<br>
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/3e17d951-b6b2-4e52-bade-407e94c5ce14" alt="Decision Model for Algorithm Implementation"  width="650" height="500">
+</p>
 
 ### Stage 3: Evaluation of Decision Models
 <p>
