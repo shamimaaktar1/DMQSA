@@ -5,7 +5,7 @@
 <h2 align="center">Decision Models for Selecting Architecture Patterns and Strategies in Quantum Software Systems</h2>
 
 <p align="left">
-  This is the replication package for the paper: "Decision Models for Selecting Architecture Patterns and Strategies in Quantum Software Systems", including the dataset, figures, scripts, and so on (see the description below).
+  This is the replication package for the paper: "Decision Models for Selecting Architecture Patterns and Strategies in Quantum Software Systems", including the dataset, figures, and so on (see the description below).
 </p>
 
 ## File Organization
