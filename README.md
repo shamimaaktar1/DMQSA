@@ -12,7 +12,7 @@
 
 
 1. `Interview data.xlsx` contains the information about i) Selected  GitHub Projects, ii) Selected Stack Exchange Sites, iii) Selected Databases, iv) Selected GitHub Issues & Pull Requests (PR), v) Selected Stack Exchange Posts, vi) Selected Studies, vii) GitHub Raw Data, viii) Stack Exchange Raw Data, ix) Scientific Studies Raw Data, x)Pattern & Strategy Impact, and xi) Selected Patterns & Strategies
-2. `Decision Models` folder contains the high-quality figures of the six decision models, namely, the decision model for i) Communication, ii) Decomposition, iii) Data
+2. `Interview data.xlsx` folder contains the high-quality figures of the six decision models, namely, the decision model for i) Communication, ii) Decomposition, iii) Data
 Processing, iv) Fault Tolerance, v) Integration and Optimization, and vi) Algorithm Implementation.
 
 ## Experiment Replication Steps
