@@ -10,8 +10,8 @@
 
 ## File Organization
 
-1. `Data for constructing the decision models.xlsx` contains the information about i) Selected  GitHub Projects, ii) Selected Stack Exchange Sites, iii) Selected Databases, iv) Selected GitHub Issues & Pull Requests (PR), v) Selected Stack Exchange Posts, vi) Selected Studies, vii) GitHub Raw Data, viii) Stack Exchange Raw Data, ix) Scientific Studies Raw Data, x) Pattern & Strategy Impact, and xi) Selected Patterns & Strategies
-2.   `Interview data.xlsx` contains the information about i) Demographic Information, ii) Practitioner Feedback on the Communication Decision Model, iii) Practitioner Feedback on the Decomposition Decision Model, iv) Practitioner Feedback on the Data processing Decision Model, v) Practitioner Feedback on the Fault Tolerance Decision Model, vi) Practitioner Feedback on the Integration and Optimization Decision Model, and vii) Practitioner Feedback on the Algorithm Implementation Decision Model
+1. `data_for_constructing_the_decision_models.xlsx` contains the information about i) Selected  GitHub Projects, ii) Selected Stack Exchange Sites, iii) Selected Databases, iv) Selected GitHub Issues & Pull Requests (PR), v) Selected Stack Exchange Posts, vi) Selected Studies, vii) GitHub Raw Data, viii) Stack Exchange Raw Data, ix) Scientific Studies Raw Data, x) Pattern & Strategy Impact, and xi) Selected Patterns & Strategies
+2.   `interview_data.xlsx` contains the information about i) Demographic Information, ii) Practitioner Feedback on the Communication Decision Model, iii) Practitioner Feedback on the Decomposition Decision Model, iv) Practitioner Feedback on the Data processing Decision Model, v) Practitioner Feedback on the Fault Tolerance Decision Model, vi) Practitioner Feedback on the Integration and Optimization Decision Model, and vii) Practitioner Feedback on the Algorithm Implementation Decision Model
 
 ## Experiment Replication Steps
 
