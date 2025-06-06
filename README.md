@@ -13,7 +13,6 @@
 1. `Data for constructing the decision models.xlsx` contains the information about i) Selected  GitHub Projects, ii) Selected Stack Exchange Sites, iii) Selected Databases, iv) Selected GitHub Issues & Pull Requests (PR), v) Selected Stack Exchange Posts, vi) Selected Studies, vii) GitHub Raw Data, viii) Stack Exchange Raw Data, ix) Scientific Studies Raw Data, x)Pattern & Strategy Impact, and xi) Selected Patterns & Strategies
 2.   `Interview data.xlsx` contains the information about i) Demographic Information, ii) Practitioner Feedback on the Communication Decision Model, iii) Practitioner Feedback on the Decomposition Decision Model, iv) Practitioner Feedback on the Data processing Decision Model, v) Practitioner Feedback on the Fault Tolerance Decision Model, vi)  Practitioner Feedback on the Integration and Optimization Decision Model, and vii) Practitioner Feedback on the Algorithm Implementation Decision Model
 
-
 ## Experiment Replication Steps
 
 This research paper is divided into three main phases.
@@ -36,6 +35,7 @@ This research paper is divided into three main phases.
   - [Practitioner Feedback on Decision Models](#practitioner-feedback-on-decision-models)
 
 
+---
 
 ### Stage 1: Research Design
 
@@ -50,13 +50,14 @@ The research method is described below and represented in the picture below:
    <img src="https://github.com/user-attachments/assets/c4ebd8fc-b7ce-4547-ba3e-41ab197e0032" alt="Research Process"  width="650" height="600">
 </p>
 
-
+---
 
 #### Identifying Quantum Patterns and Strategies
 
 <p>To comprehensively support the development of decision models for quantum software architecture, we systematically integrated the findings from both the mining study (GitHub issues and Stack Exchange posts) and the systematic literature review. This process resulted in the identification of 372 architecture patterns and strategies: 162 from the mining study, comprising 145 from 121 GitHub issues and pull requests, 17 from 13 Stack Exchange posts, and 210 from 92 peer-reviewed scientific studies. After removing duplicates and semantically consolidating similar entries, we derived a final set of 63 unique architecture patterns and strategies, which were categorized into six key design areas in quantum software systems: 1) 18 for Communication, 2) 7 for Decomposition, 3) 12 for Data Processing, 4) 8 for Fault Tolerance, 5) 9 for Integration and Optimization, and 6) 9 for Algorithm Implementation.
 </p>
 
+---
 
 #### Modeling Decision Models
 
@@ -82,10 +83,13 @@ This modeling structure ensures a clear, traceable, and standardized representat
    <img src="https://github.com/user-attachments/assets/4ca46ea6-5987-4098-8bdd-ebbb30c33a34" alt="Model and Notation (BPMN)"  width="650" height="210">
 </p>
 
+---
+
 #### Evaluating Decision Models
 
 To evaluate the proposed decision models, we conducted semi-structured interviews with 16 quantum software practitioners from eight countries, selected via GitHub, professional platforms (e.g., LinkedIn, Facebook), and personal networks. Participants received a questionnaire and a supplementary document with architectural pattern examples in advance. The interview guide, structured into seven sections, assessed six decision models across core design areas and collected both quantitative and qualitative insights. Inclusion and exclusion criteria ensured high-quality responses. Interviews were transcribed, coded, and analyzed using descriptive statistics and grounded theory methods. This evaluation helped assess the models’ *usefulness*, *correctness*, *completeness*, and *understandability*, offering practitioner-driven insights to refine the decision models.
 
+---
 
 ### Stage 2: Decision Models
 
@@ -168,6 +172,7 @@ This model supports the design of quantum algorithms through modular and reusabl
 To evaluate the proposed decision models, we conducted semi-structured interviews with 16 practitioners using a standardized [interview questionnaire](https://docs.google.com/document/d/1lz0-mAz9rU2OQdewvDSbIYnGNEZQOm6c2t0XgT6iWnQ/edit?usp=sharing). The results of this evaluation are organized into two parts: (1) participant demographic and professional background, and (2) evaluation of the decision models with respect to familiarity, understandability, and correctness.
 </p>
 
+---
 
 ### Participant Demographics and Professional Background
 
@@ -178,6 +183,7 @@ To evaluate the decision models, we conducted semi-structured interviews with 16
    <img src="https://github.com/user-attachments/assets/8d4fbd12-b655-4f4e-a1e4-44bada1ac130" alt="Decision Models for Selecting Patterns and Strategies in Quantum Software Systems-Demography"  width="600" height="450">
 </p>
 
+---
 
 ### Practitioner Feedback on Decision Models
 
