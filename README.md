@@ -50,6 +50,8 @@ The research method is described below and represented in the picture below:
    <img src="https://github.com/user-attachments/assets/c4ebd8fc-b7ce-4547-ba3e-41ab197e0032" alt="Research Process"  width="650" height="600">
 </p>
 
+<p align="center"><b>Figure 1:</b> Overview of the research process</p>
+
 ---
 
 #### Identifying Quantum Patterns and Strategies
