@@ -85,6 +85,8 @@ This modeling structure ensures a clear, traceable, and standardized representat
    <img src="https://github.com/user-attachments/assets/4ca46ea6-5987-4098-8bdd-ebbb30c33a34" alt="Model and Notation (BPMN)"  width="650" height="210">
 </p>
 
+<p align="center"><b>Figure 2:</b> Notations used in the decision models</p>
+
 ---
 
 #### Evaluating Decision Models
@@ -111,6 +113,8 @@ This model helps practitioners choose communication patterns by evaluating requi
    <img src="https://github.com/user-attachments/assets/ce1663e1-1d5f-4398-821e-41246e8cf7d0" alt="Decision Model for Communication"  width="650" height="800">
 </p>
 
+<p align="center"><b>Figure 3:</b> Decision model for selecting architecture patterns and strategies for communication</p>
+
 ---
 
 #### Decision Model for Decomposition
@@ -121,6 +125,8 @@ The decomposition model structures quantum systems into manageable modules. It b
 <p align="center">
    <img src="https://github.com/user-attachments/assets/abf6aca3-9bb2-4a58-b5ba-ec9340e37977" alt="Decision Model for Decomposition"  width="650" height="450">
 </p>
+
+<p align="center"><b>Figure 4:</b> Decision model for selecting architecture patterns and strategies for decomposition</p>
 
 ---
 
@@ -133,6 +139,8 @@ This model guides the selection of data handling patterns through inclusive and 
    <img src="https://github.com/user-attachments/assets/477289f6-a289-4a35-8336-00433a5365f1" alt="Decision Model for Data Processing"  width="650" height="550">
 </p>
 
+<p align="center"><b>Figure 5:</b> Decision model for selecting architecture patterns and strategies for data processing</p>
+
 ---
 
 #### Decision Model for Fault Tolerance
@@ -144,6 +152,7 @@ Focused on improving *reliability* and fault resilience, this model begins with 
    <img src="https://github.com/user-attachments/assets/16e0d7b8-76f9-4789-bb60-80f9143d2a42" alt="Decision Model for Fault Tolerance"  width="650" height="550">
 </p>
 
+<p align="center"><b>Figure 6:</b> Decision model for selecting architecture patterns and strategies for fault tolerance</p>
 
 ---
 
@@ -156,6 +165,8 @@ This model addresses the seamless integration of quantum components and optimiza
    <img src="https://github.com/user-attachments/assets/316c8c90-ec53-44b0-9842-9e4887ed3bc2" alt="Decision Model for Integration and Optimization"  width="650" height="500">
 </p>
 
+<p align="center"><b>Figure 7:</b> Decision model for selecting architecture patterns and strategies for integration and optimization</p>
+
 ---
 
 #### Decision Model for Algorithm Implementation
@@ -166,6 +177,8 @@ This model supports the design of quantum algorithms through modular and reusabl
 <p align="center">
    <img src="https://github.com/user-attachments/assets/3e17d951-b6b2-4e52-bade-407e94c5ce14" alt="Decision Model for Algorithm Implementation"  width="650" height="400">
 </p>
+
+<p align="center"><b>Figure 8:</b> Decision model for selecting architecture patterns and strategies for algorithm implementation</p>
 
 ---
 
@@ -185,6 +198,8 @@ To evaluate the decision models, we conducted semi-structured interviews with 16
    <img src="https://github.com/user-attachments/assets/8d4fbd12-b655-4f4e-a1e4-44bada1ac130" alt="Decision Models for Selecting Patterns and Strategies in Quantum Software Systems-Demography"  width="600" height="450">
 </p>
 
+<p align="center"><b>Figure 9:</b> Demography details of interviewed practitioners</p>
+
 ---
 
 ### Practitioner Feedback on Decision Models
@@ -197,6 +212,8 @@ Practitioners generally reported high familiarity with the architectural pattern
    <img src="https://github.com/user-attachments/assets/2d856397-afa1-4729-8413-f710c72de257" alt="Overview of practitioners’ responses for familiarity, understandability, and completeness of the decision models"  width="600" height="400">
 </p>
 
+<p align="center"><b>Figure 10:</b> Overview of practitioners’ responses for familiarity, understandability, and completeness of the
+decision models</p>
 
 
 
