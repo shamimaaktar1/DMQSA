@@ -148,7 +148,7 @@ This decision model provides a structured approach to selecting suitable archite
 
 #### Decision Model for Fault Tolerance
 
-Focused on improving *reliability* and fault resilience, this model begins with inclusive gateways to assess tolerance and detection requirements. **Sparing**, **Comparison**, and **Voting** patterns are selected for redundancy and fault detection, offering strong *fault recovery* and *reliability* but with *performance* and *complexity* trade-offs. For correction, **Error Correction**, **Readout Error Mitigation**, and **Gate Error Mitigation** address specific fault sources. Additionally, **Decorator Design Pattern** and **Quantum Patterns of Behavior (qPoB)** offer high-level fault mitigation mechanisms, enhancing *adaptability* but increasing *system complexity*.
+This decision model guides quantum software developers in selecting fault tolerance strategies that align with specific system needs such as detection, correction, and adaptability. Using a structured flow of Inclusive and Exclusive Gateways, the model evaluates multiple conditions—component failure, noisy gates, readout errors, or runtime adaptation—and maps them to suitable architectural patterns. It includes classical strategies like **Sparing**, **Voting**, and **Comparison** for redundancy and detection, as well as quantum-specific solutions such as **Error Correction**, **Readout Error Mitigation**, **Gate Error Mitigation**,  **Decorator Design**, and **Quantum Patterns of Behavior (qPoB)**. Each path is aligned with trade-offs in QAs like *Reliability*, *Fault Recovery*, *Scalability*, and *Complexity*, enabling systematic fault-resilient design in quantum software systems.
 
 <br>
 <p align="center">
@@ -161,7 +161,9 @@ Focused on improving *reliability* and fault resilience, this model begins with 
 
 #### Decision Model for Integration and Optimization
 
-This model addresses the seamless integration of quantum components and optimization of operations. If integration is needed across quantum frameworks, the **Integration Pattern** is chosen. Optimization goals lead to selection among patterns like **Prototype Design**, **Quantum Broadcast**, **Decorator Design**, and **Quantum Transformer**, each affecting *extensibility*, *maintainability*, or *modularity*. Service-based integration activates **Quantum Service-Oriented Architecture**, **Quantum Service Registry**, **Bring Your Own Container (BYOC)**, and **Quantum Load Balancing**, depending on deployment needs, promoting *flexibility*, *discoverability*, and *resource optimization*.
+This decision model guides quantum software developers in selecting architecture patterns that address system-wide integration and optimization needs. Using structured gateways, it supports decisions across three main areas: integrating diverse quantum-classical components, optimizing quantum processes, and orchestrating scalable, service-based architectures. Patterns such as **Integration Pattern**, **Prototype Design Pattern**, **Quantum Broadcast Pattern**, **Transformer Design Pattern**, and **Quantum Service-Oriented Architecture** are selected based on specific QAs like *Performance*, *Scalability*, *Modularity*, and *Interoperability*. The model balances trade-offs by providing tailored paths for hybrid coordination, parallel execution, service composition, and deployment flexibility.
+
+
 
 <br>
 <p align="center">
@@ -174,7 +176,7 @@ This model addresses the seamless integration of quantum components and optimiza
 
 #### Decision Model for Algorithm Implementation
 
-This model supports the design of quantum algorithms through modular and reusable patterns. The **Hybrid Module** pattern integrates classical and quantum logic, while the **Quantum-Classic Split** and **Classical-Quantum Interface** patterns allow separation of concerns and simplified integration. For reusable module design, **Quantum Module Pattern** and **Quantum Module Template** offer *flexibility* and *adaptability*. Optimizing execution involves selecting **Qubit Gate**, **Brickwork**, or **Template-Matching** patterns. Finally, for hardware portability and cross-platform compatibility, the **Quantum Circuit Translator** ensures *interoperability* across diverse quantum backends.
+The decision model for algorithm implementation in quantum software systems provides a structured approach for selecting suitable architectural patterns based on specific integration needs, modularization strategies, and target QAs. It begins with hybrid execution concerns, such as coordinating classical and quantum components—using patterns like **Hybrid Module**, **Quantum-Classic Split**, and **Classical-Quantum Interface**. The model then guides practitioners through the design quantum algorithm module via **Quantum Module** and **Quantum Module Template**, and optimization strategies like **Qubit Gate Pattern**, **Brickwork Pattern**, and **Template-Matching Pattern**. Finally, for device *Compatibility* and *Portability*, the **Quantum Circuit Translator pattern** is applied. Using inclusive, exclusive, and parallel gateways, the model helps balance trade-offs across key QAs such as *Reusability*, *Modularity*, *Interoperability*, and *Performance* to enable effective and maintainable quantum algorithm development.
 
 <br>
 <p align="center">
