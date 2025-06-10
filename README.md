@@ -35,7 +35,7 @@ This research paper is divided into three main phases.
   - [Practitioner Feedback on Decision Models](#practitioner-feedback-on-decision-models)
 
 
-## Stage 1: Research Design
+### Stage 1: Research Design
 
 <p>
 The decision models were explicitly crafted for four critical areas of quantum software design: structural abstraction, communication, integration and optimization, and data processing. These areas were chosen because they are fundamental to addressing critical design, implementation, integration, and data management challenges.
@@ -95,7 +95,7 @@ This evaluation enabled a comprehensive assessment of the models’ *usefulness*
 
 
 
-## Stage 2: Decision Models
+### Stage 2: Decision Models
 
 <p>
 We proposed a set of decision models for selecting patterns and strategies in six critical areas of quantum software system design: <strong>Communication</strong>, <strong>Decomposition</strong>, <strong>Data Processing</strong>, <strong>Fault Tolerance</strong>, <strong>Integration and Optimization</strong>, and <strong>Algorithm Implementation</strong>. These models are developed based on insights gathered from analyzing real-world development discussions in GitHub issues and Stack Exchange posts. They aim to guide practitioners in addressing design challenges by providing structured pathways to select suitable architectural patterns and strategies while balancing relevant quality trade-offs.
