@@ -17,7 +17,7 @@
 
 This research paper is divided into three main phases.
 
-- [Stage 1: Research Design](#research-design)
+- [Stage 1: Research Design](#stage-1:-research-design)
   - [Identifying Quantum Patterns and Strategies](#identifying-quantum-patterns-and-strategies)
   - [Modeling Decision Models](#modeling-decision-models)
   - [Evaluating Decision Models](#evaluating-decision-models)
@@ -34,6 +34,7 @@ This research paper is divided into three main phases.
   - [Participant Demographics and Professional Background](#participant-demographics-and-professional-background)
   - [Practitioner Feedback on Decision Models](#practitioner-feedback-on-decision-models)
 
+---
 
 ### Stage 1: Research Design
 
