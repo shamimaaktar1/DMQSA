@@ -35,8 +35,6 @@ This research paper is divided into three main phases.
   - [Practitioner Feedback on Decision Models](#practitioner-feedback-on-decision-models)
 
 
----
-
 ### Stage 1: Research Design
 
 <p>
@@ -52,7 +50,6 @@ The research method is described below and represented in the picture below:
 
 <p align="center"><b>Figure 1:</b> Overview of the research process</p>
 
----
 
 #### Identifying Quantum Patterns and Strategies
 
@@ -96,7 +93,7 @@ To evaluate the proposed decision models, we conducted semi-structured interview
 This evaluation enabled a comprehensive assessment of the models’ *usefulness*, *correctness*, *completeness*, and *understandability*, providing practitioner-driven insights for refining the decision models.
 . The interview guide, structured into seven sections, assessed six decision models across core design areas and collected both quantitative and qualitative insights. Inclusion and exclusion criteria ensured high-quality responses. Interviews were transcribed, coded, and analyzed using descriptive statistics and grounded theory methods. This evaluation helped assess the models’ *usefulness*, *correctness*, *completeness*, and *understandability*, offering practitioner-driven insights to refine the decision models.
 
----
+
 
 ### Stage 2: Decision Models
 
@@ -185,7 +182,6 @@ The decision model for algorithm implementation in quantum software systems prov
 
 <p align="center"><b>Figure 8:</b> Decision model for selecting architecture patterns and strategies for algorithm implementation</p>
 
----
 
 ### Stage 3: Evaluation
 <p>
