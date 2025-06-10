@@ -35,7 +35,7 @@ This research paper is divided into three main phases.
   - [Practitioner Feedback on Decision Models](#practitioner-feedback-on-decision-models)
 
 
-### Stage 1: Research Design
+## Stage 1: Research Design
 
 <p>
 The decision models were explicitly crafted for four critical areas of quantum software design: structural abstraction, communication, integration and optimization, and data processing. These areas were chosen because they are fundamental to addressing critical design, implementation, integration, and data management challenges.
