@@ -30,7 +30,7 @@ This research paper is divided into three main phases.
   - [Decision Model for Integration and Optimization](#decision-model-for-integration-and-optimization)
   - [Decision Model for Algorithm Implementation](#decision-model-for-algorithm-implementation)
  
-- [Stage 3: Evaluation of Decision Models](#evaluation-of-decision-models)
+- [Stage 3: Evaluation](#evaluation)
   - [Participant Demographics and Professional Background](#participant-demographics-and-professional-background)
   - [Practitioner Feedback on Decision Models](#practitioner-feedback-on-decision-models)
 
@@ -187,7 +187,7 @@ The decision model for algorithm implementation in quantum software systems prov
 
 ---
 
-### Stage 3: Evaluation of Decision Models
+### Stage 3: Evaluation
 <p>
 To evaluate the proposed decision models, we conducted semi-structured interviews with 16 practitioners using a standardized <a href="https://tinyurl.com/bdcvzjjb">interview questionnaire</a>. The results of this evaluation are organized into two parts: (1) participant demographic and professional background, and (2) evaluation of the decision models with respect to familiarity, understandability, and correctness.
 </p>
