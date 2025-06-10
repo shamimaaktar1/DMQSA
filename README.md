@@ -187,7 +187,7 @@ This model supports the design of quantum algorithms through modular and reusabl
 
 ### Stage 3: Evaluation of Decision Models
 <p>
-To evaluate the proposed decision models, we conducted semi-structured interviews with 16 practitioners using a standardized [interview questionnaire](https://tinyurl.com/bdcvzjjb). The results of this evaluation are organized into two parts: (1) participant demographic and professional background, and (2) evaluation of the decision models with respect to familiarity, understandability, and correctness.
+To evaluate the proposed decision models, we conducted semi-structured interviews with 16 practitioners using a standardized <a href="https://tinyurl.com/bdcvzjjb">interview questionnaire</a>. The results of this evaluation are organized into two parts: (1) participant demographic and professional background, and (2) evaluation of the decision models with respect to familiarity, understandability, and correctness.
 </p>
 
 ---
