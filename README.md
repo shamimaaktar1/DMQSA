@@ -207,7 +207,7 @@ To evaluate the decision models, we conducted semi-structured interviews with 16
 ### Practitioner Feedback on Decision Models
 
 <p>
-Practitioners generally reported high familiarity with the architectural patterns and strategies in the six proposed decision models. They found the models understandable, well-structured, and easy to apply in practice. All six models were considered sufficient for supporting architectural decisions in quantum software systems. Suggestions included adding more explicit trade-offs, clarifying relationships between patterns and quality attributes, and improving directional guidance. These inputs were incorporated into updated versions of the models.
+Practitioners generally reported high familiarity with the architectural patterns and strategies in the six proposed decision models. They found the models understandable, well-structured, and easy to apply in practice. All six models were considered sufficient for supporting architectural decisions in quantum software systems. Suggestions included adding more explicit trade-offs, clarifying relationships between patterns and QAs, and improving directional guidance. These inputs were incorporated into updated versions of the models.
 </p>
 
 <p align="center">
