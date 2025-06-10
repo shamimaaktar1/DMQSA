@@ -51,6 +51,7 @@ The research method is described below and represented in the picture below:
 
 <p align="center"><b>Figure 1:</b> Overview of the research process</p>
 
+---
 
 #### Identifying Quantum Patterns and Strategies
 
@@ -183,6 +184,7 @@ The decision model for algorithm implementation in quantum software systems prov
 
 <p align="center"><b>Figure 8:</b> Decision model for selecting architecture patterns and strategies for algorithm implementation</p>
 
+---
 
 ### Stage 3: Evaluation
 <p>
