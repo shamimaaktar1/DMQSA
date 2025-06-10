@@ -22,7 +22,7 @@ This research paper is divided into three main phases.
   - [Modeling Decision Models](#modeling-decision-models)
   - [Evaluating Decision Models](#evaluating-decision-models)
 
-- [Stage 2: Decision Models](#decision-models)
+- [Stage 2: Decision Models](#stage-2-decision-models)
   - [Decision Model for Communication](#decision-model-for-communication)
   - [Decision Model for Decomposition](#decision-model-for-decomposition)
   - [Decision Model for Data Processing](#decision-model-for-data-processing)
@@ -30,7 +30,7 @@ This research paper is divided into three main phases.
   - [Decision Model for Integration and Optimization](#decision-model-for-integration-and-optimization)
   - [Decision Model for Algorithm Implementation](#decision-model-for-algorithm-implementation)
  
-- [Stage 3: Evaluation](#evaluation)
+- [Stage 3: Evaluation](##stage-3-evaluation)
   - [Participant Demographics and Professional Background](#participant-demographics-and-professional-background)
   - [Practitioner Feedback on Decision Models](#practitioner-feedback-on-decision-models)
 
