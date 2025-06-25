@@ -188,7 +188,7 @@ The decision model for algorithm implementation in quantum software systems prov
 
 ### Stage 3: Evaluation
 <p>
-To evaluate the proposed decision models, we conducted semi-structured interviews with 16 practitioners using a standardized <a href="https://tinyurl.com/bdcvzjjb">interview questionnaire</a>. The results of this evaluation are organized into two parts: (1) participant demographic and professional background, and (2) evaluation of the decision models with respect to familiarity, understandability, and correctness.
+To evaluate the proposed decision models, we conducted semi-structured interviews with 16 practitioners using a standardized <a href="https://tinyurl.com/bdcvzjjb">interview questionnaire</a>. The results of this evaluation are organized into two parts: (1) participant demographics and professional background, and (2) evaluation of the decision models with respect to familiarity, understandability, and correctness.
 </p>
 
 ---
@@ -199,12 +199,13 @@ To evaluate the proposed decision models, we conducted semi-structured interview
 To evaluate the decision models, we conducted semi-structured interviews with 16 practitioners from Asia, Africa, and Europe. Most participants had 6–10 years of experience in software development, and 2–10 years in quantum software development. Their roles ranged from researchers and developers to physicists and project managers, reflecting the interdisciplinary nature of the field. They were also involved in various quantum domains such as cryptography, AI/ML, optimization, simulation, and healthcare, often contributing to multiple domains simultaneously.
 </p>
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/8d4fbd12-b655-4f4e-a1e4-44bada1ac130" alt="Decision Models for Selecting Patterns and Strategies in Quantum Software Systems-Demography"  width="600" height="450">
+   <img src="https://github.com/user-attachments/assets/85c63b2c-de45-4ca1-bbc9-32ca7859c6d8" alt="Decision Models for Selecting Patterns and Strategies in Quantum Software Systems-Demography"  width="600" height="450">
 </p>
 
 <p align="center"><b>Figure 9:</b> Demography details of interviewed practitioners</p>
 
 ---
+
 
 ### Practitioner Feedback on Decision Models
 
