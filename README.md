@@ -199,10 +199,11 @@ To evaluate the proposed decision models, we conducted semi-structured interview
 To evaluate the decision models, we conducted semi-structured interviews with 16 practitioners from Asia, Africa, and Europe. Most participants had 6–10 years of experience in software development, and 2–10 years in quantum software development. Their roles ranged from researchers and developers to physicists and project managers, reflecting the interdisciplinary nature of the field. They were also involved in various quantum domains such as cryptography, AI/ML, optimization, simulation, and healthcare, often contributing to multiple domains simultaneously.
 </p>
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/85c63b2c-de45-4ca1-bbc9-32ca7859c6d8" alt="Decision Models for Selecting Patterns and Strategies in Quantum Software Systems-Demography"  width="600" height="450">
+   <img src="https://github.com/user-attachments/assets/ff749afe-6ff6-4121-ac6c-90a13455c6a6" alt="Demographic details of the interview participants"  width="600" height="450">
 </p>
 
 <p align="center"><b>Figure 9:</b> Demography details of interviewed practitioners</p>
+
 
 ---
 
@@ -214,11 +215,10 @@ Practitioners generally reported high familiarity with the architectural pattern
 </p>
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/2d856397-afa1-4729-8413-f710c72de257" alt="Overview of practitioners’ responses for familiarity, understandability, and completeness of the decision models"  width="600" height="400">
+   <img src="https://github.com/user-attachments/assets/ca31f126-7c9e-44ca-8baf-04b0321209ea" alt="Overview of practitioners’ responses for familiarity, understandability, and completeness of the decision models"  width="600" height="400">
 </p>
 
 <p align="center"><b>Figure 10:</b> Overview of practitioners’ responses for familiarity, understandability, and completeness of the
 decision models</p>
-
 
 
