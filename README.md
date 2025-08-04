@@ -101,7 +101,7 @@ This evaluation enabled a comprehensive assessment of the models’ *usefulness*
 
 | #  | Group Name                                                                 | URL                                             | Group Members | Platform |
 |----|-----------------------------------------------------------------------------|-------------------------------------------------|---------------|----------|
-| 1  | Quantum Computing                                                           | [Link](https://tinyurl.com/2uacpqbz)            | 22,277        | LinkedIn |
+| 1  | Quantum Computing                                                           | [Link](https://tinyurl.com/2uacpcbz)            | 22,277        | LinkedIn |
 | 2  | Quantum Mechanics / Physics / Theory / Leap / Computing Information Science | [Link](https://tinyurl.com/47hhn7cr)            | 12,805        | LinkedIn |
 | 3  | European Quantum Computing Applications Community                           | [Link](https://tinyurl.com/ynu68v8)             | 9,108         | LinkedIn |
 | 4  | Quantum Computing (IBM)                                                     | [Link](https://tinyurl.com/2phtyu7h)            | 7,655         | LinkedIn |
