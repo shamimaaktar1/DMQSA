@@ -95,7 +95,7 @@ To evaluate the proposed decision models, we conducted semi-structured interview
 This evaluation enabled a comprehensive assessment of the models’ *usefulness*, *correctness*, *completeness*, and *understandability*, providing practitioner-driven insights for refining the decision models.
 . The interview guide, structured into seven sections, assessed six decision models across core design areas and collected both quantitative and qualitative insights. Inclusion and exclusion criteria ensured high-quality responses. Interviews were transcribed, coded, and analyzed using descriptive statistics and grounded theory methods. This evaluation helped assess the models’ *usefulness*, *correctness*, *completeness*, and *understandability*, offering practitioner-driven insights to refine the decision models.
 
-## Quantum software practitioners’ social and professional platforms used for interview invitations
+### Quantum software practitioners’ social and professional platforms used for interview invitations
 
 | #  | Group Name                                                                 | URL                                             | Group Members | Platform |
 |----|-----------------------------------------------------------------------------|-------------------------------------------------|---------------|----------|
