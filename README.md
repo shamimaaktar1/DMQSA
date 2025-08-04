@@ -95,6 +95,29 @@ To evaluate the proposed decision models, we conducted semi-structured interview
 This evaluation enabled a comprehensive assessment of the models’ *usefulness*, *correctness*, *completeness*, and *understandability*, providing practitioner-driven insights for refining the decision models.
 . The interview guide, structured into seven sections, assessed six decision models across core design areas and collected both quantitative and qualitative insights. Inclusion and exclusion criteria ensured high-quality responses. Interviews were transcribed, coded, and analyzed using descriptive statistics and grounded theory methods. This evaluation helped assess the models’ *usefulness*, *correctness*, *completeness*, and *understandability*, offering practitioner-driven insights to refine the decision models.
 
+## Quantum software practitioners’ social and professional platforms used for interview invitations
+
+| #  | Group Name                                                                 | URL                                             | Group Members | Platform |
+|----|-----------------------------------------------------------------------------|-------------------------------------------------|---------------|----------|
+| 1  | Quantum Computing                                                           | [Link](https://tinyurl.com/2uacpqbz)            | 22,277        | LinkedIn |
+| 2  | Quantum Mechanics / Physics / Theory / Leap / Computing Information Science | [Link](https://tinyurl.com/47hhn7cr)            | 12,805        | LinkedIn |
+| 3  | European Quantum Computing Applications Community                           | [Link](https://tinyurl.com/ynu68v8)             | 9,108         | LinkedIn |
+| 4  | Quantum Computing (IBM)                                                     | [Link](https://tinyurl.com/2phtyu7h)            | 7,655         | LinkedIn |
+| 5  | Quantum Computing Technology                                                | [Link](https://tinyurl.com/5e6ujnmm)            | 7,091         | LinkedIn |
+| 6  | Quantum Computing and AI Professionals                                      | [Link](https://tinyurl.com/6van9f8b)            | 2,900         | LinkedIn |
+| 7  | Quantum Technologies Opportunities Network                                   | [Link](https://tinyurl.com/mrxv6wpc)            | 1,328         | LinkedIn |
+| 8  | Artificial Intelligence and Quantum Computing Network - Next Realm AI       | [Link](https://tinyurl.com/ycka6fwp)            | 997           | LinkedIn |
+| 9  | Quantum Computing QC - A Tachyon Knowledge Initiative                       | [Link](https://tinyurl.com/ywk3tpjv)            | 881           | LinkedIn |
+| 10 | Quantum Information CyberSecurity Computing I Computer, Simulation & Cryptography barcelonaqbit.com | [Link](https://tinyurl.com/2kt6byr3)            | 741           | LinkedIn |
+| 11 | Quantum Science Communication & Outreach (QSCO)                             | [Link](https://tinyurl.com/yvmt6s93)            | 577           | LinkedIn |
+| 12 | Quantum Computing and Machine Learning                                      | [Link](https://tinyurl.com/5eyuj6je)            | 484           | LinkedIn |
+| 13 | von Neumann Forum - Quantum Algorithms, Quantum Computing and Quantum Machine Learning | [Link](https://tinyurl.com/ycya28x8)            | 366           | LinkedIn |
+| 14 | Quantum Software Engineering                                                | [Link](https://tinyurl.com/ep8d42tm)            | 47            | LinkedIn |
+| 15 | Quantum Enlightenment                                                        | [Link](https://tinyurl.com/2vte6yej)            | 2,000         | Facebook |
+| 16 | Software Architects Discussions                                              | [Link](https://tinyurl.com/y2ubyzur)            | 39,200        | Facebook |
+| 17 | Quantum AI                                                                  | [Link](https://tinyurl.com/ms22u95v)            | 8,800         | Facebook |
+
+
 ---
 
 ### Stage 2: Decision Models
