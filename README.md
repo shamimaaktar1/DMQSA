@@ -99,6 +99,7 @@ This evaluation enabled a comprehensive assessment of the models’ *usefulness*
 <p align="center"><b>Table 1:</b> Quantum software practitioners’ social and professional platforms used for interview invitations</p>
 
 <font size="1">
+
 | #  | Group Name                                                                 | URL                                             | Group Members | Platform |
 |----|-----------------------------------------------------------------------------|-------------------------------------------------|---------------|----------|
 | 1  | Quantum Computing                                                           | [Link](https://tinyurl.com/2uacpcbz)            | 22,277        | LinkedIn |
@@ -118,8 +119,8 @@ This evaluation enabled a comprehensive assessment of the models’ *usefulness*
 | 15 | Quantum Enlightenment                                                        | [Link](https://tinyurl.com/2vet6yej)            | 2,000         | Facebook |
 | 16 | Software Architects Discussions                                              | [Link](https://tinyurl.com/2yubyzur)            | 39,200        | Facebook |
 | 17 | Quantum AI                                                                  | [Link](https://tinyurl.com/ms22u95v)            | 8,800         | Facebook |
-</font>
 
+</font>
 ---
 
 ### Stage 2: Decision Models
