@@ -97,7 +97,7 @@ This evaluation enabled a comprehensive assessment of the models’ *usefulness*
 
 
 <p align="center"><b>Table 1:</b> Quantum software practitioners’ social and professional platforms used for interview invitations</p>
-<font size="2">
+<font size="1">
 
 | #  | Group Name                                                                 | URL                                             | Group Members | Platform |
 |----|-----------------------------------------------------------------------------|-------------------------------------------------|---------------|----------|
