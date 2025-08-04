@@ -121,7 +121,6 @@ This evaluation enabled a comprehensive assessment of the models’ *usefulness*
 | 17 | Quantum AI                                                                  | [Link](https://tinyurl.com/ms22u95v)            | 8,800         | Facebook |
 
 </font>
----
 
 ### Stage 2: Decision Models
 
