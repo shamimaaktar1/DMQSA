@@ -118,8 +118,8 @@ This evaluation enabled a comprehensive assessment of the models’ *usefulness*
 | 15 | Quantum Enlightenment                                                        | [Link](https://tinyurl.com/2vet6yej)            | 2,000         | Facebook |
 | 16 | Software Architects Discussions                                              | [Link](https://tinyurl.com/2yubyzur)            | 39,200        | Facebook |
 | 17 | Quantum AI                                                                  | [Link](https://tinyurl.com/ms22u95v)            | 8,800         | Facebook |
-
 </font>
+
 ---
 
 ### Stage 2: Decision Models
