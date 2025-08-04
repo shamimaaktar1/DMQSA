@@ -51,14 +51,10 @@ The research method is described below and represented in the picture below:
 
 <p align="center"><b>Figure 1:</b> Overview of the research process</p>
 
----
-
 #### Identifying Quantum Patterns and Strategies
 
 <p>To comprehensively support the development of decision models for quantum software architecture, we systematically integrated the findings from both the mining study (GitHub issues and Stack Exchange posts) and the systematic literature review. This process resulted in the identification of 372 architecture patterns and strategies: 162 from the mining study, comprising 145 from 121 GitHub issues and pull requests, 17 from 13 Stack Exchange posts, and 210 from 92 peer-reviewed scientific studies. After removing duplicates and semantically consolidating similar entries, we derived a final set of 63 unique architecture patterns and strategies, which were categorized into six key design areas in quantum software systems: 1) 18 for Communication, 2) 7 for Decomposition, 3) 12 for Data Processing, 4) 8 for Fault Tolerance, 5) 9 for Integration and Optimization, and 6) 9 for Algorithm Implementation.
 </p>
-
----
 
 #### Modeling Decision Models
 
@@ -85,8 +81,6 @@ This modeling structure ensures a clear, traceable, and standardized representat
 </p>
 
 <p align="center"><b>Figure 2:</b> Notations used in the decision models</p>
-
----
 
 #### Evaluating Decision Models
 
@@ -122,13 +116,13 @@ This evaluation enabled a comprehensive assessment of the models’ *usefulness*
 
 </font>
 
+---
+
 ### Stage 2: Decision Models
 
 <p>
 We proposed a set of decision models for selecting patterns and strategies in six critical areas of quantum software system design: <strong>Communication</strong>, <strong>Decomposition</strong>, <strong>Data Processing</strong>, <strong>Fault Tolerance</strong>, <strong>Integration and Optimization</strong>, and <strong>Algorithm Implementation</strong>. These models are developed based on insights gathered from analyzing real-world development discussions in GitHub issues and Stack Exchange posts. They aim to guide practitioners in addressing design challenges by providing structured pathways to select suitable architectural patterns and strategies while balancing relevant quality trade-offs.
 </p>
-
----
 
 #### Decision Model for Communication
 
@@ -142,8 +136,6 @@ The decision model for communication in quantum software systems provides a stru
 
 <p align="center"><b>Figure 3:</b> Decision model for selecting architecture patterns and strategies for communication</p>
 
----
-
 #### Decision Model for Decomposition
 
 This decision model provides structured guidance for selecting appropriate decomposition strategies in quantum software systems. It uses gateways to navigate multiple paths based on system goals—such as separating quantum-classical logic, enforcing architectural layers, or aligning with functional or business capabilities. The model incorporates patterns like **Quantum-Classic Split**, **Quantum Microservices**, **Layered Architecture**, and others, each selected based on specific design contexts and targeted QAs such as *Scalability*, *Maintainability*, *Performance*, and *Modularity*. By mapping conditions to pattern impacts, the model ensures that decomposition decisions are tailored to the unique structural and operational needs of quantum-classical hybrid systems.
@@ -154,8 +146,6 @@ This decision model provides structured guidance for selecting appropriate decom
 </p>
 
 <p align="center"><b>Figure 4:</b> Decision model for selecting architecture patterns and strategies for decomposition</p>
-
----
 
 #### Decision Model for Data Processing
 
@@ -168,8 +158,6 @@ This decision model provides a structured approach to selecting suitable archite
 
 <p align="center"><b>Figure 5:</b> Decision model for selecting architecture patterns and strategies for data processing</p>
 
----
-
 #### Decision Model for Fault Tolerance
 
 This decision model guides quantum software developers in selecting fault tolerance strategies that align with specific system needs such as detection, correction, and adaptability. Using a structured flow of Inclusive and Exclusive Gateways, the model evaluates multiple conditions—component failure, noisy gates, readout errors, or runtime adaptation—and maps them to suitable architectural patterns. It includes classical strategies like **Sparing**, **Voting**, and **Comparison** for redundancy and detection, as well as quantum-specific solutions such as **Error Correction**, **Readout Error Mitigation**, **Gate Error Mitigation**,  **Decorator Design**, and **Quantum Patterns of Behavior (qPoB)**. Each path is aligned with trade-offs in QAs like *Reliability*, *Fault Recovery*, *Scalability*, and *Complexity*, enabling systematic fault-resilient design in quantum software systems.
@@ -181,13 +169,10 @@ This decision model guides quantum software developers in selecting fault tolera
 
 <p align="center"><b>Figure 6:</b> Decision model for selecting architecture patterns and strategies for fault tolerance</p>
 
----
 
 #### Decision Model for Integration and Optimization
 
 This decision model guides quantum software developers in selecting architecture patterns that address system-wide integration and optimization needs. Using structured gateways, it supports decisions across three main areas: integrating diverse quantum-classical components, optimizing quantum processes, and orchestrating scalable, service-based architectures. Patterns such as **Integration Pattern**, **Prototype Design Pattern**, **Quantum Broadcast Pattern**, **Transformer Design Pattern**, and **Quantum Service-Oriented Architecture** are selected based on specific QAs like *Performance*, *Scalability*, *Modularity*, and *Interoperability*. The model balances trade-offs by providing tailored paths for hybrid coordination, parallel execution, service composition, and deployment flexibility.
-
-
 
 <br>
 <p align="center">
@@ -195,8 +180,6 @@ This decision model guides quantum software developers in selecting architecture
 </p>
 
 <p align="center"><b>Figure 7:</b> Decision model for selecting architecture patterns and strategies for integration and optimization</p>
-
----
 
 #### Decision Model for Algorithm Implementation
 
@@ -216,8 +199,6 @@ The decision model for algorithm implementation in quantum software systems prov
 To evaluate the proposed decision models, we conducted semi-structured interviews with 16 practitioners using a standardized <a href="https://tinyurl.com/bdcvzjjb">interview questionnaire</a>. The results of this evaluation are organized into two parts: (1) participant demographics and professional background, and (2) evaluation of the decision models with respect to familiarity, understandability, and correctness.
 </p>
 
----
-
 ### Participant Demographics and Professional Background
 
 <p>
@@ -228,9 +209,6 @@ To evaluate the decision models, we conducted semi-structured interviews with 16
 </p>
 
 <p align="center"><b>Figure 9:</b> Demography details of interviewed practitioners</p>
-
-
----
 
 
 ### Practitioner Feedback on Decision Models
