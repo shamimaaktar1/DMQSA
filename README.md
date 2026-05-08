@@ -215,7 +215,7 @@ To evaluate the proposed decision models, we conducted semi-structured interview
 ### Participant Demographics and Professional Background
 
 <p>
-To evaluate the decision models, we conducted semi-structured interviews with 16 practitioners from Asia, Africa, and Europe. Most participants had 6–10 years of experience in software development, and 2–10 years in quantum software development. Their roles ranged from researchers and developers to physicists and project managers, reflecting the interdisciplinary nature of the field. They were also involved in various quantum domains such as cryptography, AI/ML, optimization, simulation, and healthcare, often contributing to multiple domains simultaneously.
+To evaluate the decision models, we conducted semi-structured interviews with 30 practitioners from Asia, North America, Europe, Australia/Oceania, and Africa. Most participants had 6–10 years of experience in software development and 2–5 years in both quantum software development and software architecture/design. Their roles included researchers, developers, architects, physicists, and project managers, reflecting the interdisciplinary nature of the quantum software field. Participants were involved in diverse quantum application domains such as optimization and simulation, AI/ML, scientific software, quantum cryptography, data processing, education, and quantum software frameworks, with many contributing to multiple domains simultaneously.
 </p>
 
 <p align="center">
