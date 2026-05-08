@@ -204,7 +204,7 @@ The **Inter-Model Relationship Model** illustrates how architectural decisions i
    <img src="https://github.com/user-attachments/assets/a5e4b03c-f417-4494-847e-13b812ff10ef" alt="Inter-Model Relationship Between Decomposition and Communication Decision Models"  width="650" height="400">
 </p>
 
-<p align="center"><b>Figure 8:</b> Inter-Model Relationship Between Decomposition and Communication Decision Models</p>
+<p align="center"><b>Figure 9:</b> Inter-Model Relationship Between Decomposition and Communication Decision Models</p>
 
 ---
 
@@ -223,7 +223,7 @@ To evaluate the decision models, we conducted semi-structured interviews with 30
    <img src="https://github.com/user-attachments/assets/bdf5e1b4-8897-489b-ab36-feb65da44017" alt="Demographic details of the interview participants"  width="600" height="450">
 </p>
 
-<p align="center"><b>Figure 9:</b> Demography details of interviewed practitioners</p>
+<p align="center"><b>Figure 10:</b> Demography details of interviewed practitioners</p>
 
 
 ### Practitioner Feedback on Decision Models
@@ -236,7 +236,7 @@ Practitioners generally reported high familiarity with the architectural pattern
    <img src="https://github.com/user-attachments/assets/980b6901-f39a-440a-ac8a-0a9f18aea965" alt="Overview of practitioners’ responses for familiarity, understandability, and completeness of the decision models"  width="600" height="400">
 </p>
 
-<p align="center"><b>Figure 10:</b> Overview of practitioners’ responses for familiarity, understandability, and completeness of the
+<p align="center"><b>Figure 11:</b> Overview of practitioners’ responses for familiarity, understandability, and completeness of the
 decision models</p>
 
 
