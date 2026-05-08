@@ -29,6 +29,7 @@ This research paper is divided into three main phases.
   - [Decision Model for Fault Tolerance](#decision-model-for-fault-tolerance)
   - [Decision Model for Integration and Optimization](#decision-model-for-integration-and-optimization)
   - [Decision Model for Algorithm Implementation](#decision-model-for-algorithm-implementation)
+  - [Interdependencies Between Decision Models](#interdependencies-between-decision-models)
  
 - [Stage 3: Evaluation](#stage-3-evaluation)
   - [Participant Demographics and Professional Background](#participant-demographics-and-professional-background)
