@@ -194,16 +194,16 @@ The decision model for algorithm implementation in quantum software systems prov
 
 <p align="center"><b>Figure 8:</b> Decision model for selecting architecture patterns and strategies for algorithm implementation</p>
 
-#### Decision Model for Algorithm Implementation
+#### Interdependencies Between Decision Models
 
-The decision model for algorithm implementation in quantum software systems provides a structured approach for selecting suitable architectural patterns based on specific integration needs, modularization strategies, and target QAs. It begins with hybrid execution concerns, such as coordinating classical and quantum components—using patterns like **Hybrid Module**, **Quantum-Classic Split**, and **Classical-Quantum Interface**. The model then guides practitioners through the design quantum algorithm module via **Quantum Module** and **Quantum Module Template**, and optimization strategies like **Qubit Gate Pattern**, **Brickwork Pattern**, and **Template-Matching Pattern**. Finally, for device *Compatibility* and *Portability*, the **Quantum Circuit Translator pattern** is applied. Using inclusive, exclusive, and parallel gateways, the model helps balance trade-offs across key QAs such as *Reusability*, *Modularity*, *Interoperability*, and *Performance* to enable effective and maintainable quantum algorithm development.
+The **Inter-Model Relationship Model** illustrates how architectural decisions in quantum software systems are interconnected rather than isolated. Specifically, it demonstrates how the **Decomposition Decision Model** directly influences the **Communication Decision Model** by defining **component boundaries**, **abstraction layers**, and **quantum–classical separation**. Based on these structural decisions, appropriate communication patterns such as **Quantum API Gateway**, **Quantum Overlay**, **Entanglement Distribution**, and **QKD Protocols** are selected to support *coordination*, *interoperability*, *scalability*, and *secure communication* across distributed quantum components. The model also highlights how **quality attributes propagate across models**, showing both positive impacts (e.g., *modularity*, *scalability*, *maintainability*, *interoperability*, *security*, and *reliability*) and trade-offs (e.g., *performance overhead*, *complexity*, *cost*, *availability*, and *compatibility*). Using a **graph-based BPMN representation**, the model captures both **intra-model** and **inter-model dependencies**, helping practitioners understand how one architectural decision constrains or enables another in complex quantum software systems.
 
 <br>
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/a5e4b03c-f417-4494-847e-13b812ff10ef" alt="Decision Model for Algorithm Implementation"  width="650" height="400">
+   <img src="https://github.com/user-attachments/assets/a5e4b03c-f417-4494-847e-13b812ff10ef" alt="Inter-Model Relationship Between Decomposition and Communication Decision Models"  width="650" height="400">
 </p>
 
-<p align="center"><b>Figure 8:</b> Decision model for selecting architecture patterns and strategies for algorithm implementation</p>
+<p align="center"><b>Figure 8:</b> Inter-Model Relationship Between Decomposition and Communication Decision Models</p>
 
 ---
 
