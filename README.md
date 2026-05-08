@@ -46,7 +46,7 @@ The research method is described below and represented in the picture below:
 <br>
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/c4ebd8fc-b7ce-4547-ba3e-41ab197e0032" alt="Research Process"  width="650" height="600">
+   <img src="https://github.com/user-attachments/assets/28483d42-179a-4c44-ac1d-ab3042a0f94a" alt="Research Process"  width="650" height="600">
 </p>
 
 <p align="center"><b>Figure 1:</b> Overview of the research process</p>
@@ -77,7 +77,7 @@ This modeling structure ensures a clear, traceable, and standardized representat
 <br>
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/4ca46ea6-5987-4098-8bdd-ebbb30c33a34" alt="Model and Notation (BPMN)"  width="650" height="210">
+   <img src="https://github.com/user-attachments/assets/7800c84c-1eb4-4732-838c-174da7e2d6db" alt="Model and Notation (BPMN)"  width="650" height="210">
 </p>
 
 <p align="center"><b>Figure 2:</b> Notations used in the decision models</p>
@@ -131,7 +131,7 @@ The decision model for communication in quantum software systems provides a stru
 <br>
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/ce1663e1-1d5f-4398-821e-41246e8cf7d0" alt="Decision Model for Communication"  width="650" height="800">
+   <img src="https://github.com/user-attachments/assets/69e0a279-c145-407b-9bc7-363a6295fdc8" alt="Decision Model for Communication"  width="650" height="800">
 </p>
 
 <p align="center"><b>Figure 3:</b> Decision model for selecting architecture patterns and strategies for communication</p>
