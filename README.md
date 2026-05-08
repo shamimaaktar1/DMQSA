@@ -142,7 +142,7 @@ This decision model provides structured guidance for selecting appropriate decom
 
 <br>
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/abf6aca3-9bb2-4a58-b5ba-ec9340e37977" alt="Decision Model for Decomposition"  width="650" height="450">
+   <img src="https://github.com/user-attachments/assets/e7b409b4-2151-46e6-97e3-0cbcecfe1909" alt="Decision Model for Decomposition"  width="650" height="450">
 </p>
 
 <p align="center"><b>Figure 4:</b> Decision model for selecting architecture patterns and strategies for decomposition</p>
@@ -153,7 +153,7 @@ This decision model provides a structured approach to selecting suitable archite
 
 <br>
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/477289f6-a289-4a35-8336-00433a5365f1" alt="Decision Model for Data Processing"  width="650" height="550">
+   <img src="https://github.com/user-attachments/assets/775c872e-0344-40e6-8c50-2663f464e6de" alt="Decision Model for Data Processing"  width="650" height="550">
 </p>
 
 <p align="center"><b>Figure 5:</b> Decision model for selecting architecture patterns and strategies for data processing</p>
@@ -164,7 +164,7 @@ This decision model guides quantum software developers in selecting fault tolera
 
 <br>
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/16e0d7b8-76f9-4789-bb60-80f9143d2a42" alt="Decision Model for Fault Tolerance"  width="650" height="550">
+   <img src="https://github.com/user-attachments/assets/63d2fc50-f588-4908-bcd8-91f8aa605b1e" alt="Decision Model for Fault Tolerance"  width="650" height="550">
 </p>
 
 <p align="center"><b>Figure 6:</b> Decision model for selecting architecture patterns and strategies for fault tolerance</p>
@@ -174,9 +174,10 @@ This decision model guides quantum software developers in selecting fault tolera
 
 This decision model guides quantum software developers in selecting architecture patterns that address system-wide integration and optimization needs. Using structured gateways, it supports decisions across three main areas: integrating diverse quantum-classical components, optimizing quantum processes, and orchestrating scalable, service-based architectures. Patterns such as **Integration Pattern**, **Prototype Design Pattern**, **Quantum Broadcast Pattern**, **Transformer Design Pattern**, and **Quantum Service-Oriented Architecture** are selected based on specific QAs like *Performance*, *Scalability*, *Modularity*, and *Interoperability*. The model balances trade-offs by providing tailored paths for hybrid coordination, parallel execution, service composition, and deployment flexibility.
 
+
 <br>
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/316c8c90-ec53-44b0-9842-9e4887ed3bc2" alt="Decision Model for Integration and Optimization"  width="650" height="500">
+   <img src="https://github.com/user-attachments/assets/816eebea-7c77-4183-9180-14a548c5c8a8" alt="Decision Model for Integration and Optimization"  width="650" height="500">
 </p>
 
 <p align="center"><b>Figure 7:</b> Decision model for selecting architecture patterns and strategies for integration and optimization</p>
@@ -185,9 +186,21 @@ This decision model guides quantum software developers in selecting architecture
 
 The decision model for algorithm implementation in quantum software systems provides a structured approach for selecting suitable architectural patterns based on specific integration needs, modularization strategies, and target QAs. It begins with hybrid execution concerns, such as coordinating classical and quantum components—using patterns like **Hybrid Module**, **Quantum-Classic Split**, and **Classical-Quantum Interface**. The model then guides practitioners through the design quantum algorithm module via **Quantum Module** and **Quantum Module Template**, and optimization strategies like **Qubit Gate Pattern**, **Brickwork Pattern**, and **Template-Matching Pattern**. Finally, for device *Compatibility* and *Portability*, the **Quantum Circuit Translator pattern** is applied. Using inclusive, exclusive, and parallel gateways, the model helps balance trade-offs across key QAs such as *Reusability*, *Modularity*, *Interoperability*, and *Performance* to enable effective and maintainable quantum algorithm development.
 
+
 <br>
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/3e17d951-b6b2-4e52-bade-407e94c5ce14" alt="Decision Model for Algorithm Implementation"  width="650" height="400">
+   <img src="https://github.com/user-attachments/assets/9c76d4b5-35e3-43f2-8c53-cba86fcd9046" alt="Decision Model for Algorithm Implementation"  width="650" height="400">
+</p>
+
+<p align="center"><b>Figure 8:</b> Decision model for selecting architecture patterns and strategies for algorithm implementation</p>
+
+#### Decision Model for Algorithm Implementation
+
+The decision model for algorithm implementation in quantum software systems provides a structured approach for selecting suitable architectural patterns based on specific integration needs, modularization strategies, and target QAs. It begins with hybrid execution concerns, such as coordinating classical and quantum components—using patterns like **Hybrid Module**, **Quantum-Classic Split**, and **Classical-Quantum Interface**. The model then guides practitioners through the design quantum algorithm module via **Quantum Module** and **Quantum Module Template**, and optimization strategies like **Qubit Gate Pattern**, **Brickwork Pattern**, and **Template-Matching Pattern**. Finally, for device *Compatibility* and *Portability*, the **Quantum Circuit Translator pattern** is applied. Using inclusive, exclusive, and parallel gateways, the model helps balance trade-offs across key QAs such as *Reusability*, *Modularity*, *Interoperability*, and *Performance* to enable effective and maintainable quantum algorithm development.
+
+<br>
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/a5e4b03c-f417-4494-847e-13b812ff10ef" alt="Decision Model for Algorithm Implementation"  width="650" height="400">
 </p>
 
 <p align="center"><b>Figure 8:</b> Decision model for selecting architecture patterns and strategies for algorithm implementation</p>
@@ -204,8 +217,9 @@ To evaluate the proposed decision models, we conducted semi-structured interview
 <p>
 To evaluate the decision models, we conducted semi-structured interviews with 16 practitioners from Asia, Africa, and Europe. Most participants had 6–10 years of experience in software development, and 2–10 years in quantum software development. Their roles ranged from researchers and developers to physicists and project managers, reflecting the interdisciplinary nature of the field. They were also involved in various quantum domains such as cryptography, AI/ML, optimization, simulation, and healthcare, often contributing to multiple domains simultaneously.
 </p>
+
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/ff749afe-6ff6-4121-ac6c-90a13455c6a6" alt="Demographic details of the interview participants"  width="600" height="450">
+   <img src="https://github.com/user-attachments/assets/bdf5e1b4-8897-489b-ab36-feb65da44017" alt="Demographic details of the interview participants"  width="600" height="450">
 </p>
 
 <p align="center"><b>Figure 9:</b> Demography details of interviewed practitioners</p>
@@ -218,7 +232,7 @@ Practitioners generally reported high familiarity with the architectural pattern
 </p>
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/ca31f126-7c9e-44ca-8baf-04b0321209ea" alt="Overview of practitioners’ responses for familiarity, understandability, and completeness of the decision models"  width="600" height="400">
+   <img src="https://github.com/user-attachments/assets/980b6901-f39a-440a-ac8a-0a9f18aea965" alt="Overview of practitioners’ responses for familiarity, understandability, and completeness of the decision models"  width="600" height="400">
 </p>
 
 <p align="center"><b>Figure 10:</b> Overview of practitioners’ responses for familiarity, understandability, and completeness of the
