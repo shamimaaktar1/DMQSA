@@ -47,7 +47,7 @@ The research method is described below and represented in the picture below:
 <br>
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/28483d42-179a-4c44-ac1d-ab3042a0f94a" alt="Research Process"  width="650" height="580">
+   <img src="https://github.com/user-attachments/assets/28483d42-179a-4c44-ac1d-ab3042a0f94a" alt="Research Process"  width="650" height="570">
 </p>
 
 <p align="center"><b>Figure 1:</b> Overview of the research process</p>
