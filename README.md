@@ -47,7 +47,7 @@ The research method is described below and represented in the picture below:
 <br>
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/28483d42-179a-4c44-ac1d-ab3042a0f94a" alt="Research Process"  width="650" height="600">
+   <img src="https://github.com/user-attachments/assets/28483d42-179a-4c44-ac1d-ab3042a0f94a" alt="Research Process"  width="650" height="580">
 </p>
 
 <p align="center"><b>Figure 1:</b> Overview of the research process</p>
@@ -78,7 +78,7 @@ This modeling structure ensures a clear, traceable, and standardized representat
 <br>
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/cd60394c-d644-410d-bc55-4b15d13e4e21" alt="Model and Notation (BPMN)"  width="650" height="270">
+   <img src="https://github.com/user-attachments/assets/cd60394c-d644-410d-bc55-4b15d13e4e21" alt="Model and Notation (BPMN)"  width="650" height="250">
 </p>
 
 <p align="center"><b>Figure 2:</b> Notations used in the decision models</p>
