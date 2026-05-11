@@ -63,22 +63,22 @@ To model the decision-making process for selecting architectural patterns and st
 
 1. A **grey box** represents a specific design area within quantum software systems (e.g., Communication, Decomposition).
 2. A **circle** marks the **starting point** of the decision process.
-3. An **Inclusive Gateway** allows multiple outgoing paths to be activated based on specific conditions.
-4. An **Exclusive Gateway** permits only one outgoing path to proceed based on a selected condition.
-5. A **Parallel Gateway** triggers all outgoing paths simultaneously to represent concurrent execution.
-6. **Rounded rectangles** depict architectural patterns and strategies relevant to the design area.
+3. A **single-headed arrow (→)** indicates a *conditional flow* between elements in the decision process.
+4. An **Inclusive Gateway** allows multiple outgoing paths to be activated based on specific conditions.
+5. An **Exclusive Gateway** permits only one outgoing path to proceed based on a selected condition.
+6. A **Parallel Gateway** triggers all outgoing paths simultaneously to represent concurrent execution.
 7. A **plus sign (+)** indicates a *quality attribute* positively influenced by the associated pattern or strategy.
 8. A **minus sign (-)** indicates a *quality attribute* negatively impacted by the pattern or strategy.
-9. An **octagon** connected by a **dashed arrow** to a pattern denotes a constraint applied to that pattern.
+9. A **Rounded rectangles** depict architectural patterns and strategies relevant to the design area.
 10. A **double-headed arrow (⇉)** pointing in the same direction represents a *complements* relationship between two patterns or strategies.
-11. A **single-headed arrow (→)** indicates a *conditional flow* between elements in the decision process.
+11. An **octagon** connected by a **dashed arrow** to a pattern denotes a constraint applied to that pattern.
 
 This modeling structure ensures a clear, traceable, and standardized representation of decision flows, helping practitioners evaluate trade-offs and make informed architectural decisions in quantum software systems.
 
 <br>
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/cd60394c-d644-410d-bc55-4b15d13e4e21" alt="Model and Notation (BPMN)"  width="650" height="210">
+   <img src="https://github.com/user-attachments/assets/cd60394c-d644-410d-bc55-4b15d13e4e21" alt="Model and Notation (BPMN)"  width="650" height="300">
 </p>
 
 <p align="center"><b>Figure 2:</b> Notations used in the decision models</p>
