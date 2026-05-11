@@ -78,7 +78,7 @@ This modeling structure ensures a clear, traceable, and standardized representat
 <br>
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/cd60394c-d644-410d-bc55-4b15d13e4e21" alt="Model and Notation (BPMN)"  width="650" height="300">
+   <img src="https://github.com/user-attachments/assets/cd60394c-d644-410d-bc55-4b15d13e4e21" alt="Model and Notation (BPMN)"  width="650" height="270">
 </p>
 
 <p align="center"><b>Figure 2:</b> Notations used in the decision models</p>
