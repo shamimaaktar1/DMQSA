@@ -200,8 +200,9 @@ The decision model for algorithm implementation in quantum software systems prov
 The **Inter-Model Relationship Model** illustrates how architectural decisions in quantum software systems are interconnected rather than isolated. Specifically, it demonstrates how the **Decomposition Decision Model** directly influences the **Communication Decision Model** by defining **component boundaries**, **abstraction layers**, and **quantum–classical separation**. Based on these structural decisions, appropriate communication patterns such as **Quantum API Gateway**, **Quantum Overlay**, **Entanglement Distribution**, and **QKD Protocols** are selected to support *coordination*, *interoperability*, *scalability*, and *secure communication* across distributed quantum components. The model also highlights how **quality attributes propagate across models**, showing both positive impacts (e.g., *modularity*, *scalability*, *maintainability*, *interoperability*, *security*, and *reliability*) and trade-offs (e.g., *performance overhead*, *complexity*, *cost*, *availability*, and *compatibility*). Using a **graph-based BPMN representation**, the model captures both **intra-model** and **inter-model dependencies**, helping practitioners understand how one architectural decision constrains or enables another in complex quantum software systems.
 
 <br>
+
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/a5e4b03c-f417-4494-847e-13b812ff10ef" alt="Inter-Model Relationship Between Decomposition and Communication Decision Models"  width="650" height="400">
+   <img src="https://github.com/user-attachments/assets/9dcb62d6-7aec-46ab-bec5-9edcc2846b4f" alt="Inter-Model Relationship Between Decomposition and Communication Decision Models"  width="650" height="400">
 </p>
 
 <p align="center"><b>Figure 9:</b> Inter-Model Relationship Between Decomposition and Communication Decision Models</p>
