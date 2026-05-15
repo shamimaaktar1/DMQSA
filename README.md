@@ -211,7 +211,7 @@ The **Inter-Model Relationship Model** illustrates how architectural decisions i
 
 ### Stage 3: Evaluation
 <p>
-To evaluate the proposed decision models, we conducted semi-structured interviews with 16 practitioners using a standardized <a href="https://tinyurl.com/bdcvzjjb">interview questionnaire</a>. The results of this evaluation are organized into two parts: (1) participant demographics and professional background, and (2) evaluation of the decision models with respect to familiarity, understandability, and correctness.
+To evaluate the proposed decision models, we conducted semi-structured interviews with 30 practitioners using a standardized <a href="https://tinyurl.com/bdcvzjjb">interview questionnaire</a>. The results of this evaluation are organized into two parts: (1) participant demographics and professional background, and (2) evaluation of the decision models with respect to familiarity, understandability, and correctness.
 </p>
 
 ### Participant Demographics and Professional Background
