@@ -176,7 +176,7 @@ This decision model guides quantum software developers in selecting fault tolera
 
 <br>
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/63d2fc50-f588-4908-bcd8-91f8aa605b1e" alt="Decision Model for Fault Tolerance"  width="650" height="550">
+   <img src="https://github.com/user-attachments/assets/cc3e4bf5-5137-4008-8a7a-891db10ad4e4" alt="Decision Model for Fault Tolerance"  width="650" height="550">
 </p>
 
 <p align="center"><b>Figure 6:</b> Decision model for selecting architecture patterns and strategies for fault tolerance</p>
