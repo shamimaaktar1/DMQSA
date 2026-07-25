@@ -58,9 +58,8 @@ The decision models were explicitly crafted for four critical areas of quantum s
 The research method is described below and represented in the picture below:
 <br>
 <br>
-
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/28483d42-179a-4c44-ac1d-ab3042a0f94a" alt="Research Process"  width="650" height="600">
+   <img src="https://github.com/user-attachments/assets/5dcc3691-12e1-4abe-ad84-785a1e1ab9ec" alt="Research Process"  width="650" height="600">
 </p>
 
 <p align="center"><b>Figure 1:</b> Overview of the research process</p>
