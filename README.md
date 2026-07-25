@@ -165,7 +165,7 @@ This decision model provides a structured approach to selecting suitable archite
 
 <br>
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/775c872e-0344-40e6-8c50-2663f464e6de" alt="Decision Model for Data Processing"  width="650" height="550">
+   <img src="https://github.com/user-attachments/assets/853eb1d9-cc23-4d54-a7ef-ca4bb009e361" alt="Decision Model for Data Processing"  width="650" height="550">
 </p>
 
 <p align="center"><b>Figure 5:</b> Decision model for selecting architecture patterns and strategies for data processing</p>
