@@ -1,4 +1,3 @@
-<img width="2973" height="3585" alt="Decision Models for Selecting Patterns and Strategies in Quantum Software Systems-Communication (7)" src="https://github.com/user-attachments/assets/39d90ff6-c921-4233-9547-9c3ffbf218a2" />
 <p align="center">
     <img src="https://github.com/user-attachments/assets/fa49cdf3-b8c1-439e-aff7-9802bc1c5c10" alt="Logo" width="650" height="400" />
 </p>
