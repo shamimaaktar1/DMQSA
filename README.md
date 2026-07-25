@@ -2,18 +2,31 @@
     <img src="https://github.com/user-attachments/assets/fa49cdf3-b8c1-439e-aff7-9802bc1c5c10" alt="Logo" width="650" height="400" />
 </p>
 
-<h2 align="center">Decision Models for Selecting Architecture Patterns and Strategies in Quantum Software Systems</h2>
+<div align="center">
+  <h1 align="center">Decision Models for Selecting Architecture Patterns and Strategies in Quantum Software Systems</h1>
+</div>
+
+
+<div align="center">
+    <a href="https://github.com/shamimaaktar1/DMQSA/">
+      <img src="https://img.shields.io/badge/Code-GitHub-2d333b?style=flat-square&logo=github" alt="github">
+    </a>
+    <a href="https://arxiv.org/abs/2507.11671">
+      <img src="https://img.shields.io/badge/Paper-arXiv-b31b1b?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv">
+    </a>
+    <hr>
+</div>
 
 <p align="left">
   This is the replication package for the paper: "Decision Models for Selecting Architecture Patterns and Strategies in Quantum Software Systems", including the dataset, figures of decision models, and so on (see the description below).
 </p>
 
-## File Organization
+## 📋 File Organization
 
 1. `data_for_constructing_the_decision_models.xlsx` contains the information about i) Selected  GitHub Projects, ii) Selected Stack Exchange Sites, iii) Selected Databases, iv) Selected GitHub Issues & Pull Requests (PR), v) Selected Stack Exchange Posts, vi) Selected Studies, vii) GitHub Raw Data, viii) Stack Exchange Raw Data, ix) Scientific Studies Raw Data, x) Pattern & Strategy Impact, and xi) Selected Patterns & Strategies
 2.   `interview_data.xlsx` contains the information about i) Demographic Information, ii) Practitioner Feedback on the Communication Decision Model, iii) Practitioner Feedback on the Decomposition Decision Model, iv) Practitioner Feedback on the Data processing Decision Model, v) Practitioner Feedback on the Fault Tolerance Decision Model, vi) Practitioner Feedback on the Integration and Optimization Decision Model, and vii) Practitioner Feedback on the Algorithm Implementation Decision Model
 
-## Experiment Replication Steps
+## 🚀 Experiment Replication Steps
 
 This research paper is divided into three main phases.
 
@@ -240,4 +253,13 @@ Practitioners generally reported high familiarity with the architectural pattern
 <p align="center"><b>Figure 11:</b> Overview of practitioners’ responses for familiarity, understandability, and completeness of the
 decision models</p>
 
+## 📝 Citation
 
+```bibtex
+@article{aktar2025FasterPy,
+  author = {Mst Shamima Aktar and Peng Liang and Muhammad Waseem and Amjed Tahir and Mojtaba Shahin and Muhammad Azeem Akbar and Arif Ali Khan and Aakash Ahmad and Musengamana Jean de Dieu and Ruiyin Li},
+  title = {{Decision Models for Selecting Architecture Patterns and Strategies in Quantum Software Systems}},
+  journal={arXiv preprint arXiv:2507.11671},
+  year={2026}
+}
+```
