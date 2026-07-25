@@ -1,3 +1,4 @@
+<img width="2973" height="3585" alt="Decision Models for Selecting Patterns and Strategies in Quantum Software Systems-Communication (7)" src="https://github.com/user-attachments/assets/39d90ff6-c921-4233-9547-9c3ffbf218a2" />
 <p align="center">
     <img src="https://github.com/user-attachments/assets/fa49cdf3-b8c1-439e-aff7-9802bc1c5c10" alt="Logo" width="650" height="400" />
 </p>
@@ -140,11 +141,10 @@ We proposed a set of decision models for selecting patterns and strategies in si
 #### Decision Model for Communication
 
 The decision model for communication in quantum software systems provides a structured framework to guide practitioners in selecting architecture patterns and strategies for both quantum-to-quantum and quantum-to-classical communication. Informed by mining studies and literature, it maps communication scenarios to architectural solutions using Inclusive, Exclusive, and Parallel Gateways. The model supports diverse communication needs—ranging from managing hybrid workflows (e.g., **Quantum API Gateway**, **Workflow Orchestration**) to secure long-distance quantum networking (e.g., **Entanglement Distribution**, **Teleportation**, **QKD Protocols**). It distinguishes between **Connection-Oriented** and **Connectionless Strategies**, and includes broadcasting, layered architectures, and performance-enhancing solutions such as **Quantum Burst Communication** and **Entanglement-Assisted Channels**. Each pattern is annotated with its associated trade-offs across key quality attributes (QAs) such as *Security*, *Scalability*, *Modularity*, and *Performance*, enabling informed, context-sensitive decisions for building robust quantum communication systems.
-
 <br>
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/69e0a279-c145-407b-9bc7-363a6295fdc8" alt="Decision Model for Communication"  width="650" height="800">
+   <img src="https://github.com/user-attachments/assets/d1e6398f-8418-4943-b677-a79cd2944864" alt="Decision Model for Communication"  width="650" height="800">
 </p>
 
 <p align="center"><b>Figure 3:</b> Decision model for selecting architecture patterns and strategies for communication</p>
