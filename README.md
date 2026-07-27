@@ -184,7 +184,7 @@ This decision model guides quantum software developers in selecting fault tolera
 
 #### Decision Model for Integration and Optimization
 
-This decision model guides quantum software developers in selecting architecture patterns that address system-wide integration and optimization needs. Using structured gateways, it supports decisions across three main areas: integrating diverse quantum-classical components, optimizing quantum processes, and orchestrating scalable, service-based architectures. Patterns such as **Integration Pattern**, **Prototype Design Pattern**, **Quantum Broadcast Pattern**, **Transformer Design Pattern**, and **Quantum Service-Oriented Architecture** are selected based on specific QAs like *Performance*, *Scalability*, *Modularity*, and *Interoperability*. The model balances trade-offs by providing tailored paths for hybrid coordination, parallel execution, service composition, and deployment flexibility.
+This decision model guides quantum software developers in selecting architecture patterns that address system-wide integration and optimization needs. Using structured gateways, it supports decisions across three main areas: integrating diverse quantum-classical components, optimizing quantum processes, and orchestrating scalable, service-based architectures. Patterns such as **Integration Pattern**, **Prototype Design Pattern**, **Quantum Broadcast Pattern**, **Circuit Transformer Pattern**, and **Quantum Service-Oriented Architecture** are selected based on specific QAs like *Performance*, *Scalability*, *Modularity*, and *Interoperability*. The model balances trade-offs by providing tailored paths for hybrid coordination, parallel execution, service composition, and deployment flexibility.
 
 
 <br>
