@@ -196,7 +196,7 @@ This decision model guides quantum software developers in selecting architecture
 
 #### Decision Model for Algorithm Implementation
 
-The decision model for algorithm implementation in quantum software systems provides a structured approach for selecting suitable architectural patterns based on specific integration needs, modularization strategies, and target QAs. It begins with hybrid execution concerns, such as coordinating classical and quantum components—using patterns like **Hybrid Module**, **Quantum-Classic Split**, and **Classical-Quantum Interface**. The model then guides practitioners through the design quantum algorithm module via **Quantum Module** and **Quantum Module Template**, and optimization strategies like **Qubit Gate Pattern**, **Brickwork Pattern**, and **Template-Matching Pattern**. Finally, for device *Compatibility* and *Portability*, the **Quantum Circuit Translator pattern** is applied. Using inclusive, exclusive, and parallel gateways, the model helps balance trade-offs across key QAs such as *Reusability*, *Modularity*, *Interoperability*, and *Performance* to enable effective and maintainable quantum algorithm development.
+The decision model for algorithm implementation in quantum software systems provides a structured approach for selecting suitable architectural patterns based on specific integration needs, modularization strategies, and target QAs. It begins with hybrid execution concerns, such as coordinating classical and quantum components—using patterns like **Hybrid Module**, **Quantum-Classic Split**, and **Classical-Quantum Interface**. The model then guides practitioners through the design of a quantum algorithm module via **Quantum Module** and **Quantum Module Template**, and optimization strategies like **Qubit Gate Pattern**, **Brickwork Pattern**, and **Template-Matching Pattern**. Finally, for device *Compatibility* and *Portability*, the **Quantum Circuit Translator pattern** is applied. Using inclusive, exclusive, and parallel gateways, the model helps balance trade-offs across key QAs such as *Reusability*, *Modularity*, *Interoperability*, and *Performance* to enable effective and maintainable quantum algorithm development.
 
 
 <br>
@@ -213,7 +213,7 @@ The **Inter-Model Relationship Model** illustrates how architectural decisions i
 <br>
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/9dcb62d6-7aec-46ab-bec5-9edcc2846b4f" alt="Inter-Model Relationship Between Decomposition and Communication Decision Models"  width="650" height="400">
+   <img src="https://github.com/user-attachments/assets/e3a2b598-6d9f-4d0d-b9fa-46be2e509c53" alt="Inter-Model Relationship Between Decomposition and Communication Decision Models"  width="650" height="400">
 </p>
 
 <p align="center"><b>Figure 9:</b> Inter-Model Relationship Between Decomposition and Communication Decision Models</p>
