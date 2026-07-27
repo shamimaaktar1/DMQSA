@@ -1,3 +1,4 @@
+<img width="2205" height="1710" alt="1st Revision Decision Models for Selecting Patterns and Strategies in Quantum Software Systems-Demography_v02 (1)" src="https://github.com/user-attachments/assets/5a2825dd-aaa5-4c50-8311-97f3941f910c" />
 <p align="center">
     <img src="https://github.com/user-attachments/assets/fa49cdf3-b8c1-439e-aff7-9802bc1c5c10" alt="Logo" width="650" height="400" />
 </p>
@@ -232,7 +233,7 @@ To evaluate the decision models, we conducted semi-structured interviews with 30
 </p>
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/bdf5e1b4-8897-489b-ab36-feb65da44017" alt="Demographic details of the interview participants"  width="600" height="450">
+   <img src="https://github.com/user-attachments/assets/b19e30e0-5b58-4a3d-83a6-246080d0c8c2" alt="Demographic details of the interview participants"  width="600" height="450">
 </p>
 
 <p align="center"><b>Figure 10:</b> Demography details of interviewed practitioners</p>
