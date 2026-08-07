@@ -217,7 +217,7 @@ A worked example, a **Hybrid Quantum Drug Discovery Platform** — illustrates t
 <br>
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/e3a2b598-6d9f-4d0d-b9fa-46be2e509c53" alt="Inter-Model Relationship Between Decomposition and Communication Decision Models"  width="650" height="400">
+   <img src="https://github.com/user-attachments/assets/1880351b-f25d-46f7-82b1-ecd1aa1454bd" alt="Inter-Model Relationship Between Decomposition and Communication Decision Models"  width="650" height="400">
 </p>
 
 <p align="center"><b>Figure 9:</b> Interdependencies among the six architecture decision models</p>
