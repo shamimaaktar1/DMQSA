@@ -152,7 +152,10 @@ The decision model for communication in quantum software systems provides a stru
 <br>
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/d1e6398f-8418-4943-b677-a79cd2944864" alt="Decision Model for Communication"  width="650" height="800">
+   <img src="https://github.com/user-attachments/assets/d1e6398f-8418-4943-b677-a79cd2944864" 
+        alt="Decision Model for Communication" 
+        width="1200" 
+        height="1477">
 </p>
 
 <p align="center"><b>Figure 3:</b> Decision model for selecting architecture patterns and strategies for communication</p>
@@ -163,7 +166,10 @@ This decision model provides structured guidance for selecting appropriate decom
 
 <br>
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/e7b409b4-2151-46e6-97e3-0cbcecfe1909" alt="Decision Model for Decomposition"  width="650" height="450">
+   <img src="https://github.com/user-attachments/assets/e7b409b4-2151-46e6-97e3-0cbcecfe1909" 
+        alt="Decision Model for Decomposition" 
+        width="1200" 
+        height="831">
 </p>
 
 <p align="center"><b>Figure 4:</b> Decision model for selecting architecture patterns and strategies for decomposition</p>
@@ -174,7 +180,10 @@ This decision model provides a structured approach to selecting suitable archite
 
 <br>
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/853eb1d9-cc23-4d54-a7ef-ca4bb009e361" alt="Decision Model for Data Processing"  width="650" height="550">
+   <img src="https://github.com/user-attachments/assets/853eb1d9-cc23-4d54-a7ef-ca4bb009e361" 
+        alt="Decision Model for Data Processing" 
+        width="1200" 
+        height="1015">
 </p>
 
 <p align="center"><b>Figure 5:</b> Decision model for selecting architecture patterns and strategies for data processing</p>
@@ -185,7 +194,10 @@ This decision model guides quantum software developers in selecting fault tolera
 
 <br>
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/cc3e4bf5-5137-4008-8a7a-891db10ad4e4" alt="Decision Model for Fault Tolerance"  width="650" height="550">
+   <img src="https://github.com/user-attachments/assets/cc3e4bf5-5137-4008-8a7a-891db10ad4e4" 
+        alt="Decision Model for Fault Tolerance" 
+        width="1200" 
+        height="1015">
 </p>
 
 <p align="center"><b>Figure 6:</b> Decision model for selecting architecture patterns and strategies for fault tolerance</p>
@@ -198,7 +210,10 @@ This decision model guides quantum software developers in selecting architecture
 
 <br>
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/965e9762-2ecd-4a29-8426-a86a34b3c9c1" alt="Decision Model for Integration and Optimization"  width="650" height="500">
+   <img src="https://github.com/user-attachments/assets/965e9762-2ecd-4a29-8426-a86a34b3c9c1" 
+        alt="Decision Model for Integration and Optimization" 
+        width="1200" 
+        height="923">
 </p>
 
 <p align="center"><b>Figure 7:</b> Decision model for selecting architecture patterns and strategies for integration and optimization</p>
@@ -210,7 +225,10 @@ The decision model for algorithm implementation in quantum software systems prov
 
 <br>
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/9c76d4b5-35e3-43f2-8c53-cba86fcd9046" alt="Decision Model for Algorithm Implementation"  width="650" height="400">
+   <img src="https://github.com/user-attachments/assets/9c76d4b5-35e3-43f2-8c53-cba86fcd9046" 
+        alt="Decision Model for Algorithm Implementation" 
+        width="1200" 
+        height="738">
 </p>
 
 <p align="center"><b>Figure 8:</b> Decision model for selecting architecture patterns and strategies for algorithm implementation</p>
@@ -226,7 +244,10 @@ A worked example, a **Hybrid Quantum Drug Discovery Platform** — illustrates t
 <br>
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/1880351b-f25d-46f7-82b1-ecd1aa1454bd" alt="An illustrative example of decision propagation and interdependencies among the six decision models"  width="650" height="400">
+   <img src="https://github.com/user-attachments/assets/1880351b-f25d-46f7-82b1-ecd1aa1454bd" 
+        alt="An illustrative example of decision propagation and interdependencies among the six decision models" 
+        width="1200" 
+        height="738">
 </p>
 
 <p align="center"><b>Figure 9:</b> An illustrative example of decision propagation and interdependencies among the six decision models</p>
@@ -245,9 +266,11 @@ To evaluate the decision models, we conducted semi-structured interviews with 30
 </p>
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/b19e30e0-5b58-4a3d-83a6-246080d0c8c2" alt="Demographic details of the interview participants"  width="600" height="450">
+   <img src="https://github.com/user-attachments/assets/b19e30e0-5b58-4a3d-83a6-246080d0c8c2" 
+        alt="Demographic details of the interview participants" 
+        width="1200" 
+        height="900">
 </p>
-
 <p align="center"><b>Figure 10:</b> Demography details of interviewed practitioners</p>
 
 
@@ -258,9 +281,11 @@ Practitioners generally reported high familiarity with the architectural pattern
 </p>
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/980b6901-f39a-440a-ac8a-0a9f18aea965" alt="Overview of practitioners’ responses for familiarity, understandability, and completeness of the decision models"  width="600" height="400">
+   <img src="https://github.com/user-attachments/assets/980b6901-f39a-440a-ac8a-0a9f18aea965" 
+        alt="Overview of practitioners’ responses for familiarity, understandability, and completeness of the decision models" 
+        width="1200" 
+        height="800">
 </p>
-
 <p align="center"><b>Figure 11:</b> Overview of practitioners’ responses for familiarity, understandability, and completeness of the
 decision models</p>
 
