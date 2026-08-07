@@ -212,8 +212,7 @@ This decision model guides quantum software developers in selecting architecture
 <p align="center">
    <img src="https://github.com/user-attachments/assets/965e9762-2ecd-4a29-8426-a86a34b3c9c1" 
         alt="Decision Model for Integration and Optimization" 
-        width="1200" 
-        height="923">
+        width="100%">
 </p>
 
 <p align="center"><b>Figure 7:</b> Decision model for selecting architecture patterns and strategies for integration and optimization</p>
