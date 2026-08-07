@@ -169,7 +169,7 @@ This decision model provides structured guidance for selecting appropriate decom
    <img src="https://github.com/user-attachments/assets/e7b409b4-2151-46e6-97e3-0cbcecfe1909" 
         alt="Decision Model for Decomposition" 
         width="1200" 
-        height="831">
+        height="600">
 </p>
 
 <p align="center"><b>Figure 4:</b> Decision model for selecting architecture patterns and strategies for decomposition</p>
