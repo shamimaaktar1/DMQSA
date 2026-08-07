@@ -1,5 +1,8 @@
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/fa49cdf3-b8c1-439e-aff7-9802bc1c5c10" alt="Logo" width="650" height="400" />
+    <img src="https://github.com/user-attachments/assets/fa49cdf3-b8c1-439e-aff7-9802bc1c5c10" 
+         alt="Logo" 
+         width="1200" 
+         height="738" />
 </p>
 
 <div align="center">
