@@ -221,10 +221,9 @@ This decision model guides quantum software developers in selecting architecture
 
 The decision model for algorithm implementation in quantum software systems provides a structured approach for selecting suitable architectural patterns based on specific integration needs, modularization strategies, and target QAs. It begins with hybrid execution concerns, such as coordinating classical and quantum components—using patterns like **Hybrid Module**, **Quantum-Classic Split**, and **Classical-Quantum Interface**. The model then guides practitioners through the design of a quantum algorithm module via **Quantum Module** and **Quantum Module Template**, and optimization strategies like **Qubit Gate Pattern**, **Brickwork Pattern**, and **Template-Matching Pattern**. Finally, for device *Compatibility* and *Portability*, the **Quantum Circuit Translator pattern** is applied. Using inclusive, exclusive, and parallel gateways, the model helps balance trade-offs across key QAs such as *Reusability*, *Modularity*, *Interoperability*, and *Performance* to enable effective and maintainable quantum algorithm development.
 
-
 <br>
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/9c76d4b5-35e3-43f2-8c53-cba86fcd9046" 
+   <img src="https://github.com/user-attachments/assets/c3ad2e01-8e5a-4e26-bf4e-24bc08a4c032" 
         alt="Decision Model for Algorithm Implementation" 
         width="1200" 
         height="738">
