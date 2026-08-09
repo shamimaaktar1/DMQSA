@@ -242,7 +242,7 @@ A worked example, a **Hybrid Quantum Drug Discovery Platform** — illustrates t
 <br>
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/1880351b-f25d-46f7-82b1-ecd1aa1454bd" 
+   <img src="https://github.com/user-attachments/assets/f127c426-f5cb-483c-ae3b-851c049a8a3d" 
         alt="An illustrative example of decision propagation and interdependencies among the six decision models" 
         width="1200" 
         height="738">
