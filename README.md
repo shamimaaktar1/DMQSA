@@ -282,7 +282,7 @@ Practitioners generally reported high familiarity with the architectural pattern
    <img src="https://github.com/user-attachments/assets/980b6901-f39a-440a-ac8a-0a9f18aea965" 
         alt="Overview of practitioners’ responses for familiarity, understandability, and completeness of the decision models" 
         width="1200" 
-        height="800">
+        height="900">
 </p>
 <p align="center"><b>Figure 11:</b> Overview of practitioners’ responses for familiarity, understandability, and completeness of the
 decision models</p>
